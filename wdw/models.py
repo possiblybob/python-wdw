@@ -3,25 +3,26 @@ import requests
 from datetime import datetime, timedelta
 
 class AccessToken(object):
-	"""wraps access token to APIs"""
-	def __init__(self):
+    """wraps access token to APIs"""
+    def __init__(self):
         self.uri = 'https://authorization.go.com/token'
         self.params = {
             'grant_type': 'assertion',
-			'assertion_type': 'public',
+            'assertion_type': 'public',
             'client_id': 'WDPRO-MOBILE.CLIENT-PROD'
         }
         self.renew()
 
-	def renew(self):
-		"""resets token and expiration window"""
-		result = requests.post(self.uri, self.params)
-		data = result.json()
-		self.token = data['access_token']
-		valid_seconds = int(data['expires_at'])
-		self.expires_at = datetime.now() + timedelta(seconds=valid_seconds)
+    def renew(self):
+        """resets token and expiration window"""
+        result = requests.post(self.uri, self.params)
+        data = result.json()
+        self.token = data['access_token']
+        valid_seconds = int(data['expires_at'])
+        self.expires_at = datetime.now() + timedelta(seconds=valid_seconds)
 
-	def is_expired(self):
+    @property
+    def is_expired(self):
         """determines if token has expired"""
         return self.expires_at <= datetime.now()
 
