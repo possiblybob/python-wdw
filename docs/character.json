@@ -1,0 +1,369 @@
+{
+    'id': '90004846;entityType=Character',
+    'origin': 'Origin to be added to one souce',
+    'descriptions': {
+        'MM - Tinker Bell Backstory': {
+            'id': '375407',
+            'type': 'Backstory',
+            'text': "TINKER BELL has been delighting fans for over 50 years as PETER PAN's loyal, feisty friend. Inspired by the Disney publishing stories, the Tinker Bell film, takes us on ajourney back in time before the adventures of TINK and PETER PAN. We fly deep in the heart of Never Land and into the magical world of Pixie Hollow. It is here we discover how TINK was &#8220;born&#8221;, meet her friends, and learn about the world of fairies. &#8220;Born of laughter, clothed in cheer, happiness has brought you here.&#8221; Queen Clarion's words are the first spoken of everyone's favorite fairy, TINKER BELL. Not happy with her talent at first , TINK soon learns with the help of her friends (FAWN, IRIDESSA, SILVERMIST, and ROSETTA), to accept her gift and appreciate being a Tinker fairy. This realization comes after her amusingly unsuccessful attempts to learn the skills of a Light Fairy, Water Fairy, and Animal Fairy; and her ill-advised attempt to corral the pesky Sprinting Thistles, which ultimately leads to the destruction of the spring preparations. TINK shrugs off disappointment and with the support of her friends and trust in her tinkering skills creates inventions that help all the fairies repair what was destroyed. TINK learns that anything is possible (even a visit to the mainland) with a little faith, trust, and pixie dust.\r\n"
+        },
+        'MM - TINKER BELL - Away Message': {
+            'id': '399548',
+            'type': 'Away Message',
+            'text': "Hi there, Mainlanders, TINKER BELL has made a stop at Tinker's Nook to see the new lost things Fairy Mary has for her to tinker with. She'll fly with ya later!"
+        },
+        'shortDescriptionMobile': {
+            'id': '',
+            'type': 'mobileDescription',
+            'text': 'From Peter Pan to Pixie Hollow, Tinker Bell is the feisty fairy we all believe in\u2014with faith, trust, and pixie dust.',
+            'sections': {
+                'body': 'From Peter Pan to Pixie Hollow, Tinker Bell is the feisty fairy we all believe in\u2014with faith, trust, and pixie dust.'
+            }
+        }
+    },
+    'associatedEvents': [{
+        'links': {
+            'self': {
+                'href': 'https://api.wdpro.disney.go.com/global-pool-override-B/facility-service/entertainments/8511'
+            }
+        }
+    }, {
+        'links': {
+            'self': {
+                'href': 'https://api.wdpro.disney.go.com/global-pool-override-B/facility-service/entertainments/12248'
+            }
+        }
+    }, {
+        'links': {
+            'self': {
+                'href': 'https://api.wdpro.disney.go.com/global-pool-override-B/facility-service/entertainments/126631'
+            }
+        }
+    }, {
+        'links': {
+            'self': {
+                'href': 'https://api.wdpro.disney.go.com/global-pool-override-B/facility-service/entertainments/276291'
+            }
+        }
+    }, {
+        'links': {
+            'self': {
+                'href': 'https://api.wdpro.disney.go.com/global-pool-override-B/facility-service/entertainments/401524'
+            }
+        }
+    }, {
+        'links': {
+            'self': {
+                'href': 'https://api.wdpro.disney.go.com/global-pool-override-B/facility-service/entertainments/16197917'
+            }
+        }
+    }, {
+        'links': {
+            'self': {
+                'href': 'https://api.wdpro.disney.go.com/global-pool-override-B/facility-service/entertainments/17435569'
+            }
+        }
+    }, {
+        'links': {
+            'self': {
+                'href': 'https://api.wdpro.disney.go.com/global-pool-override-B/facility-service/entertainments/17752793'
+            }
+        }
+    }],
+    'links': {
+        'self': {
+            'href': 'https://api.wdpro.disney.go.com/global-pool-override-B/facility-service/characters/90004846'
+        }
+    },
+    'relatedLocations': {
+        'primaryLocations': [{
+            'links': {
+                'self': {
+                    'href': 'https://api.wdpro.disney.go.com/global-pool-override-B/facility-service/attractions/353399'
+                }
+            },
+            'facilityType': 'Attraction'
+        }, {
+            'links': {
+                'self': {
+                    'href': 'https://api.wdpro.disney.go.com/global-pool-override-B/facility-service/attractions/80010170'
+                }
+            },
+            'facilityType': 'Attraction'
+        }, {
+            'links': {
+                'self': {
+                    'href': 'https://api.wdpro.disney.go.com/global-pool-override-B/facility-service/attractions/80010176'
+                }
+            },
+            'facilityType': 'Attraction'
+        }]
+    },
+    'facets': {
+        'characterType': [{
+            'id': '16726813',
+            'value': 'Fairies',
+            'urlFriendlyId': 'fairies'
+        }],
+        'dlr-mobile-listing': [{
+            'id': '17459742',
+            'value': 'FinderMobileCharacters',
+            'urlFriendlyId': 'FinderMobileCharacters'
+        }],
+        'wdw-mobile-listing': [{
+            'id': '17045811',
+            'value': 'FinderMobileCharacters',
+            'urlFriendlyId': 'FinderMobileCharacters'
+        }]
+    },
+    'urlFriendlyId': 'tinkerbell',
+    'name': 'Tinker Bell',
+    'media': {
+        'characterSmall': {
+            'type': 'png',
+            'url': 'https://secure.parksandresorts.wdpromedia.com/resize/mwImage/2/90/90/90/wdpromedia.disney.go.com/media/wdpro-assets/avatars/180x180/RetAvatar_180x180_TinkerBell.png?27122013152218',
+            'title': 'Tinker Bell',
+            'alt': 'Tinker Bell',
+            'transcodeTemplate': 'https://secure.parksandresorts.wdpromedia.com/resize/mwImage/2/{width}/{height}/90/wdpromedia.disney.go.com/media/wdpro-assets/avatars/180x180/RetAvatar_180x180_TinkerBell.png?27122013152218'
+        },
+        'X-TinkerBell-720x405': {
+            'type': 'JPG',
+            'url': 'https://secure.parksandresorts.wdpromedia.com/oneSource/static/TinkerBell720x405.jpg',
+            'title': 'X-TinkerBell-720x405'
+        },
+        'Tinker bell - 216x106': {
+            'type': 'JPG',
+            'url': 'https://secure.parksandresorts.wdpromedia.com/oneSource/static/tink_216x106.jpg',
+            'title': 'Tinker bell - 216x106'
+        },
+        'X-TinkerBell-98x98': {
+            'type': 'JPG',
+            'url': 'https://secure.parksandresorts.wdpromedia.com/oneSource/static/TinkerBell98x98.jpg',
+            'title': 'X-TinkerBell-98x98'
+        },
+        'finderDetailMobileHero': {
+            'type': 'jpg',
+            'url': 'https://secure.parksandresorts.wdpromedia.com/resize/mwImage/1/720/405/90/wdpromedia.disney.go.com/media/wdpro-assets/characters/720x405/TinkerBell720x405.jpg?28052013120820',
+            'title': 'Tinker Bell',
+            'alt': 'Tinker Bell',
+            'transcodeTemplate': 'https://secure.parksandresorts.wdpromedia.com/resize/mwImage/1/{width}/{height}/90/wdpromedia.disney.go.com/media/wdpro-assets/characters/720x405/TinkerBell720x405.jpg?28052013120820'
+        },
+        'X-TinkerBell-320x180': {
+            'type': 'JPG',
+            'url': 'https://secure.parksandresorts.wdpromedia.com/oneSource/static/TinkerBell320x180.jpg',
+            'title': 'X-TinkerBell-320x180'
+        },
+        'Tinkerbell Medium Image 175x100': {
+            'type': 'PNG',
+            'url': 'https://secure.parksandresorts.wdpromedia.com/oneSource/static/Avatar_Refactored_175x100_Tinkerbell.png',
+            'title': 'Tinkerbell Medium Image 175x100'
+        },
+        'Tinker Bell X Small Image 54x60': {
+            'type': 'PNG',
+            'url': 'https://secure.parksandresorts.wdpromedia.com/oneSource/static/avatarFace_54x60_XS_Tinkerbell.png',
+            'title': 'Tinker Bell X Small Image 54x60'
+        },
+        'X-TinkerBell-82x82': {
+            'type': 'JPG',
+            'url': 'https://secure.parksandresorts.wdpromedia.com/oneSource/static/TinkerBell82x82.jpg',
+            'title': 'X-TinkerBell-82x82'
+        },
+        'Tinker Bell Full Image 377x482': {
+            'type': 'JPG',
+            'url': 'https://secure.parksandresorts.wdpromedia.com/oneSource/static/avatarFull_Tinkerbell.png',
+            'title': 'Tinker Bell Full Image 377x482'
+        },
+        'characterTransparent': {
+            'type': 'png',
+            'url': 'https://secure.parksandresorts.wdpromedia.com/resize/mwImage/2/660/284/90/wdpromedia.disney.go.com/media/wdpro-assets/avatars/660x284/tink_avatar_heroimage_660.png?31122013120644',
+            'title': 'Tink',
+            'alt': 'Tink',
+            'transcodeTemplate': 'https://secure.parksandresorts.wdpromedia.com/resize/mwImage/2/{width}/{height}/90/wdpromedia.disney.go.com/media/wdpro-assets/avatars/660x284/tink_avatar_heroimage_660.png?31122013120644'
+        },
+        'X-TinkerBell-640x360': {
+            'type': 'JPG',
+            'url': 'https://secure.parksandresorts.wdpromedia.com/oneSource/static/TinkerBell640x360.jpg',
+            'title': 'X-TinkerBell-640x360'
+        },
+        'Tinkerbell Small Image 90x90': {
+            'type': 'PNG',
+            'url': 'https://secure.parksandresorts.wdpromedia.com/oneSource/static/Avatar_Refactored_90x90_Tinkerbell.png',
+            'title': 'Tinkerbell Small Image 90x90'
+        },
+        'X-TinkerBell-125x125': {
+            'type': 'JPG',
+            'url': 'https://secure.parksandresorts.wdpromedia.com/oneSource/static/TinkerBell125x125.jpg',
+            'title': 'X-TinkerBell-125x125'
+        },
+        'X-TinkerBell-480x270': {
+            'type': 'JPG',
+            'url': 'https://secure.parksandresorts.wdpromedia.com/oneSource/static/TinkerBell480x270.jpg',
+            'title': 'X-TinkerBell-480x270'
+        },
+        'finderListMobileSquare': {
+            'type': 'jpg',
+            'url': 'https://secure.parksandresorts.wdpromedia.com/resize/mwImage/1/125/125/90/wdpromedia.disney.go.com/media/wdpro-assets/characters/125x125/TinkerBell125x125.jpg?28052013102058',
+            'title': 'Tinker Bell',
+            'alt': 'Tinker Bell',
+            'transcodeTemplate': 'https://secure.parksandresorts.wdpromedia.com/resize/mwImage/1/{width}/{height}/90/wdpromedia.disney.go.com/media/wdpro-assets/characters/125x125/TinkerBell125x125.jpg?28052013102058'
+        },
+        'X-TinkerBell-540x304': {
+            'type': 'JPG',
+            'url': 'https://secure.parksandresorts.wdpromedia.com/oneSource/static/TinkerBell540x304.jpg',
+            'title': 'X-TinkerBell-540x304'
+        },
+        'X-TinkerBell-109x109': {
+            'type': 'JPG',
+            'url': 'https://secure.parksandresorts.wdpromedia.com/oneSource/static/TinkerBell109x109.jpg',
+            'title': 'X-TinkerBell-109x109'
+        },
+        'Tinker Bell Pop Image 258x230': {
+            'type': 'JPG',
+            'url': 'https://secure.parksandresorts.wdpromedia.com/oneSource/static/avatarPop_Tinkerbell.png',
+            'title': 'Tinker Bell Pop Image 258x230'
+        },
+        'characterTiny': {
+            'type': 'png',
+            'url': 'https://secure.parksandresorts.wdpromedia.com/resize/mwImage/2/30/30/90/wdpromedia.disney.go.com/media/wdpro-assets/avatars/180x180/RetAvatar_180x180_TinkerBell.png?27122013152218',
+            'title': 'Tinker Bell',
+            'alt': 'Tinker Bell',
+            'transcodeTemplate': 'https://secure.parksandresorts.wdpromedia.com/resize/mwImage/2/{width}/{height}/90/wdpromedia.disney.go.com/media/wdpro-assets/avatars/180x180/RetAvatar_180x180_TinkerBell.png?27122013152218'
+        },
+        'characterLandingPage': {
+            'type': 'png',
+            'url': 'https://secure.parksandresorts.wdpromedia.com/resize/mwImage/2/325/295/90/wdpromedia.disney.go.com/media/wdpro-assets/avatars/mdx-landing/PEP_PC_PEPHome_Heros_Tinkerbell.png?10092012070549',
+            'title': 'Tinker Bell',
+            'alt': 'Tinker Bell',
+            'transcodeTemplate': 'https://secure.parksandresorts.wdpromedia.com/resize/mwImage/2/{width}/{height}/90/wdpromedia.disney.go.com/media/wdpro-assets/avatars/mdx-landing/PEP_PC_PEPHome_Heros_Tinkerbell.png?10092012070549'
+        },
+        'characterCircle': {
+            'type': 'png',
+            'url': 'https://secure.parksandresorts.wdpromedia.com/resize/mwImage/2/250/325/90/wdpromedia.disney.go.com/media/wdpro-assets/avatars/250x325-circle/circle_avatar_250x325_tinker-bell.png?12082014142414',
+            'title': 'Tinker Bell',
+            'alt': 'Tinker Bell',
+            'transcodeTemplate': 'https://secure.parksandresorts.wdpromedia.com/resize/mwImage/2/{width}/{height}/90/wdpromedia.disney.go.com/media/wdpro-assets/avatars/250x325-circle/circle_avatar_250x325_tinker-bell.png?12082014142414'
+        },
+        'Tinker bell - 132X147': {
+            'type': 'JPG',
+            'url': 'https://secure.parksandresorts.wdpromedia.com/oneSource/static/tink - 132x147.jpg',
+            'title': 'Tinker bell - 132X147'
+        },
+        'Tinker Bell X Large Image 217x220': {
+            'type': 'JPG',
+            'url': 'https://secure.parksandresorts.wdpromedia.com/oneSource/static/avatarFace_XL_Tinkerbell.png',
+            'title': 'Tinker Bell X Large Image 217x220'
+        },
+        'characterExtraSmall': {
+            'type': 'png',
+            'url': 'https://secure.parksandresorts.wdpromedia.com/resize/mwImage/2/45/45/90/wdpromedia.disney.go.com/media/wdpro-assets/avatars/180x180/RetAvatar_180x180_TinkerBell.png?27122013152218',
+            'title': 'Tinker Bell',
+            'alt': 'Tinker Bell',
+            'transcodeTemplate': 'https://secure.parksandresorts.wdpromedia.com/resize/mwImage/2/{width}/{height}/90/wdpromedia.disney.go.com/media/wdpro-assets/avatars/180x180/RetAvatar_180x180_TinkerBell.png?27122013152218'
+        },
+        'X-TinkerBell-49x49': {
+            'type': 'JPG',
+            'url': 'https://secure.parksandresorts.wdpromedia.com/oneSource/static/TinkerBell49x49.jpg',
+            'title': 'X-TinkerBell-49x49'
+        },
+        'Tinker bell - 211x106': {
+            'type': 'JPG',
+            'url': 'https://secure.parksandresorts.wdpromedia.com/oneSource/static/tink_211x106.jpg',
+            'title': 'Tinker bell - 211x106'
+        },
+        'Tinker bell - 162x80': {
+            'type': 'JPG',
+            'url': 'https://secure.parksandresorts.wdpromedia.com/oneSource/static/tink_162x80.jpg',
+            'title': 'Tinker bell - 162x80'
+        },
+        'Tinker Bell Large Image 158x160': {
+            'type': 'PNG',
+            'url': 'https://secure.parksandresorts.wdpromedia.com/oneSource/static/avatarFace_158x160_LG_Tinkerbell.png',
+            'title': 'Tinker Bell Large Image 158x160'
+        },
+        'Tinker Bell Cast Small Image 74x70': {
+            'type': 'JPG',
+            'url': 'https://secure.parksandresorts.wdpromedia.com/oneSource/static/avatarFace_SM_C_Tinkerbell.png',
+            'title': 'Tinker Bell Cast Small Image 74x70'
+        },
+        'Tinker Bell Small Image 76x82': {
+            'type': 'PNG',
+            'url': 'https://secure.parksandresorts.wdpromedia.com/oneSource/static/avatarFace_76x82_SM_Tinkerbell.png',
+            'title': 'Tinker Bell Small Image 76x82'
+        },
+        'Tinker Bell Cast Medium Image 90x85': {
+            'type': 'JPG',
+            'url': 'https://secure.parksandresorts.wdpromedia.com/oneSource/static/avatarFace_MD_C_Tinkerbell.png',
+            'title': 'Tinker Bell Cast Medium Image 90x85'
+        },
+        'X-TinkerBell-73x73': {
+            'type': 'JPG',
+            'url': 'https://secure.parksandresorts.wdpromedia.com/oneSource/static/TinkerBell73x73.jpg',
+            'title': 'X-TinkerBell-73x73'
+        },
+        'Tinkerbell - 640x314': {
+            'type': 'JPG',
+            'url': 'https://secure.parksandresorts.wdpromedia.com/oneSource/static/tinkerbell_640x314.jpg',
+            'title': 'Tinkerbell - 640x314'
+        },
+        'characterLandingPageSmall': {
+            'type': 'png',
+            'url': 'https://secure.parksandresorts.wdpromedia.com/resize/mwImage/2/90/90/90/wdpromedia.disney.go.com/media/wdpro-assets/avatars/mdx-landing-profile/PEP_PC_PEPHome_Icons_Tinkerbell_90.png?05102012055847',
+            'title': 'Tinker Bell',
+            'alt': 'Tinker Bell',
+            'transcodeTemplate': 'https://secure.parksandresorts.wdpromedia.com/resize/mwImage/2/{width}/{height}/90/wdpromedia.disney.go.com/media/wdpro-assets/avatars/mdx-landing-profile/PEP_PC_PEPHome_Icons_Tinkerbell_90.png?05102012055847'
+        },
+        'X-TinkerBell-36x36': {
+            'type': 'JPG',
+            'url': 'https://secure.parksandresorts.wdpromedia.com/oneSource/static/TinkerBell36x36.jpg',
+            'title': 'X-TinkerBell-36x36'
+        },
+        'characterMedium': {
+            'type': 'png',
+            'url': 'https://secure.parksandresorts.wdpromedia.com/resize/mwImage/2/170/96/90/wdpromedia.disney.go.com/media/wdpro-assets/avatars/340x192/RetAvatar_340x192_TinkerBell.png?27122013150114',
+            'title': 'Tinker Bell',
+            'alt': 'Tinker Bell',
+            'transcodeTemplate': 'https://secure.parksandresorts.wdpromedia.com/resize/mwImage/2/{width}/{height}/90/wdpromedia.disney.go.com/media/wdpro-assets/avatars/340x192/RetAvatar_340x192_TinkerBell.png?27122013150114'
+        },
+        'characterLarge': {
+            'type': 'png',
+            'url': 'https://secure.parksandresorts.wdpromedia.com/resize/mwImage/2/930/266/90/wdpromedia.disney.go.com/media/wdpro-assets/avatars/1860x520/RetAvatar_1860x520_Tinker-Bell.png?13122013102750',
+            'title': 'Tinker Bell',
+            'alt': 'Tinker Bell',
+            'transcodeTemplate': 'https://secure.parksandresorts.wdpromedia.com/resize/mwImage/2/{width}/{height}/90/wdpromedia.disney.go.com/media/wdpro-assets/avatars/1860x520/RetAvatar_1860x520_Tinker-Bell.png?13122013102750'
+        },
+        'Tinker Bell Medium Image91x96': {
+            'type': 'PNG',
+            'url': 'https://secure.parksandresorts.wdpromedia.com/oneSource/static/avatarFace_91x96_MD_Tinkerbell.png',
+            'title': 'Tinker Bell Medium Image 91x96'
+        },
+        'Tinkerbell Large Image 930x260': {
+            'type': 'PNG',
+            'url': 'https://secure.parksandresorts.wdpromedia.com/oneSource/static/Avatar_Refactored_930x260_Tinkerbell.png',
+            'title': 'Tinkerbell Large Image 930x260'
+        },
+        'Tinkerbell X Small Image 45x45': {
+            'type': 'PNG',
+            'url': 'https://secure.parksandresorts.wdpromedia.com/oneSource/static/Avatar_Refactored_45x45_TinkerBell.png',
+            'title': 'Tinkerbell X Small Image 45x45'
+        },
+        'avatarMobileSquare': {
+            'type': 'png',
+            'url': 'https://secure.parksandresorts.wdpromedia.com/resize/mwImage/2/125/125/90/wdpromedia.disney.go.com/media/wdpro-assets/avatars/avatar-mobile-square/avatar_125x125_Tinkerbell.png?26122013094432',
+            'title': 'Tinkerbell',
+            'alt': 'Tinkerbell',
+            'transcodeTemplate': 'https://secure.parksandresorts.wdpromedia.com/resize/mwImage/2/{width}/{height}/90/wdpromedia.disney.go.com/media/wdpro-assets/avatars/avatar-mobile-square/avatar_125x125_Tinkerbell.png?26122013094432'
+        }
+    },
+    'type': 'Character',
+    'subType': 'Entertainment Character ',
+    'classifications': [{
+        'id': '/Character/Groupings',
+        'text': 'Classic Characters'
+    }, {
+        'id': '/Character/Groupings',
+        'text': 'Fairies'
+    }, {
+        'id': '/Character/TV Shows',
+        'text': 'Tinker Bell'
+    }]
+}

@@ -1,0 +1,63 @@
+{
+    'id': '16736220',
+    'coordinates': {
+        'Guest Entrance': {
+            'gps': {
+                'longitude': '-81.5821776',
+                'latitude': '28.4188138'
+            }
+        }
+    },
+    'admissionRequired': True,
+    'errors': [{
+        'message': 'WDPRO Service Call Failed. Reason: An internal server error occurred.',
+        'typeId': 'PARTIAL_SUCCESS_INTERNAL_SERVER_ERROR'
+    }, {
+        'message': 'The specified resource could not be located URL: https://api-platform.wdpro.starwave.com/global-pool-override-B/content-service/environments/live/entities/16736220;type=oneSource',
+        'typeId': 'PARTIAL_SUCCESS_NOT_FOUND'
+    }],
+    'links': {
+        'ancestorThemePark': {
+            'title': 'Magic Kingdom Park',
+            'href': 'https://api.wdpro.disney.go.com/global-pool-override-B/facility-service/theme-parks/80007944'
+        },
+        'ancestorDestination': {
+            'title': 'Walt Disney World Resort',
+            'href': 'https://api.wdpro.disney.go.com/global-pool-override-B/facility-service/destinations/80007798'
+        },
+        'scheduleMax': {
+            'href': 'https://api.wdpro.disney.go.com/global-pool-override-B/facility-service/schedules/16736220?days=190'
+        },
+        'ancestorLand': {
+            'title': 'Liberty Square',
+            'href': 'https://api.wdpro.disney.go.com/global-pool-override-B/facility-service/lands/80007945'
+        },
+        'self': {
+            'href': 'https://api.wdpro.disney.go.com/global-pool-override-B/facility-service/facilities/16736220'
+        },
+        'ancestorResortArea': {
+            'title': 'Magic Kingdom Resort Area',
+            'href': 'https://api.wdpro.disney.go.com/global-pool-override-B/facility-service/resort-areas/1258'
+        },
+        'schedule': {
+            'href': 'https://api.wdpro.disney.go.com/global-pool-override-B/facility-service/schedules/16736220'
+        }
+    },
+    'relatedLocations': {},
+    'disneyOwned': True,
+    'ancestorDestination': {
+        'id': '80007798;entityType=destination',
+        'links': {
+            'self': {
+                'title': 'Walt Disney World Resort',
+                'href': 'https://api.wdpro.disney.go.com/global-pool-override-B/facility-service/destinations/80007798'
+            }
+        }
+    },
+    'disneyOperated': True,
+    'name': "Tiana's Garden Glen",
+    'type': 'Facility',
+    'subType': 'Character Experience Location',
+    'facets': {},
+    'contentType': 'Facility'
+}

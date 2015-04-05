@@ -1,0 +1,712 @@
+{
+    'id': '80007944;entityType=theme-park',
+    'coordinates': {
+        'North East Bounds': {
+            'gps': {
+                'longitude': '-81.57639718',
+                'latitude': '28.42206389'
+            }
+        },
+        'South West Bounds': {
+            'gps': {
+                'longitude': '-81.58654683',
+                'latitude': '28.41459052'
+            }
+        },
+        'Guest Entrance': {
+            'gps': {
+                'longitude': '-81.5811902834',
+                'latitude': '28.4160036778'
+            },
+            'xyMaps': {
+                'x': '536',
+                'y': '404'
+            }
+        }
+    },
+    'descriptions': {
+        'MM - Magic Kingdom Park - Brief Description': {
+            'id': '371799',
+            'type': 'Brief Description',
+            'text': 'Enchanting entertainment, classic attractions, beloved Disney Characters and spectacular parades and fireworks in a place where fairytale dreams can come true.'
+        },
+        'shortDescription': {
+            'id': '',
+            'type': 'webDescription',
+            'text': '<div class="htmlContainer heroBlock">\n<div class="heroData" data-widget="readMoreLink" data-readmoretranslation="Read More" data-maxlength="275">\n<p>Fairytale dreamscome true for children of all ages at Magic Kingdom park. Delight in classic attractions, enchanting fireworks, musical parades and beloved Disney Characters across 6 whimsical lands. See fantasy become a reality as you explore Adventureland, Frontierland, Liberty Square, Fantasyland\u2014<a target="_blank" href="http://disneyworld.disney.go.com/events-tours/magic-kingdom/new-fantasyland/">open while undergoing the largest expansion in Magic Kingdom history</a>!\u2014Tomorrowland and Main Street, U.S.A. areas. Zoom through space, become a swashbuckling pirate and watch fireworks light up the sky over Cinderella Castle.</p>\n</div>\n</div>',
+            'sections': {
+                'readAll': 'Fairytale dreams come true for children of all ages at Magic Kingdom park. Delight in classic attractions, enchanting fireworks, musical parades and beloved Disney Characters across 6 whimsical lands.See fantasy become a reality as you explore Adventureland, Frontierland, Liberty Square, Fantasyland\u2014<a target="_blank" href="http://disneyworld.disney.go.com/events-tours/magic-kingdom/new-fantasyland/">open while undergoing the largest expansion in Magic Kingdom history</a>!\u2014Tomorrowland and Main Street, U.S.A. areas. Zoom through space, become a swashbuckling pirate and watch fireworks light up the sky over Cinderella Castle.',
+                'readMore': 'Fairytale dreams come true for children of all ages at Magic Kingdom park. Delight in classic attractions, enchanting fireworks, musical parades and beloved Disney Characters across 6 whimsical lands. See fantasy become a reality as you explore'
+            }
+        },
+        'MM - Magic Kingdom - Medium Copy': {
+            'id': '15546413',
+            'type': 'Official Medium Copy',
+            'text': 'Magic Kingdom theme park, one of 4 theme parks in Walt Disney World Resort, captures the enchantment of fairy tales with classic attractions, exhilarating entertainment, backstage tours and beloved Disney Characters.'
+        },
+        'entityCard1': {
+            'id': '',
+            'type': 'webDescription',
+            'text': '<a class="htmlContentBlock heroCopyButtonContainer3" href="https://disneyworld.disney.go.com/attractions/magic-kingdom/">\n    <div class="heroButtonWrapper">\n        <div class="htmlContainer">\n            <img class="heroCopyButtonImage" src="https://secure.parksandresorts.wdpromedia.com/resize/mwImage/1/170/96/90/wdpromedia.disney.go.com/media/wdpro-assets/parks-and-tickets/destinations/magic-kingdom/magic-kingdom-01.jpg?20082013080034" alt="A boy and a girl ride on Big Thunder Mountain Railroad at Magic Kingdom park"/>\n            <div class="heroCopyButtonContent">\n                <h3>Attractions</h3>\n                <p>Conquer mountains, cruise down an exotic jungle river and brave a ghostly mansion!</p>\n            </div>\n        </div>\n        <div class="arrow"></div>\n    </div>\n</a>',
+            'sections': {
+                'buttonCardHeader': 'Attractions',
+                'buttonCardBody': 'Conquer mountains, cruise down an exotic jungle river and brave a ghostly mansion!'
+            }
+        },
+        'entityCard3': {
+            'id': '',
+            'type': 'webDescription',
+            'text': '<a class="htmlContentBlock heroCopyButtonContainer3" href="https://disneyworld.disney.go.com/dining/magic-kingdom/">\n    <div class="heroButtonWrapper">\n   <div class="htmlContainer">\n            <img class="heroCopyButtonImage" src="https://secure.parksandresorts.wdpromedia.com/resize/mwImage/1/170/96/90/wdpromedia.disney.go.com/media/wdpro-assets/parks-and-tickets/destinations/magic-kingdom/magic-kingdom-03.jpg?11102013074604" alt="A Cast Member serves dessert to a girl and her mother at Be OurGuest Restaurant"/>\n            <div class="heroCopyButtonContent">\n                <h3>Dining</h3>\n                <p>Grab a delicious bite on the go, dine with favorite Disney characters, and more.</p>\n            </div>\n        </div>\n        <div class="arrow"></div>\n    </div>\n</a>',
+            'sections': {
+                'buttonCardHeader': 'Dining',
+                'buttonCardBody': 'Grab a delicious bite on the go, dine with favorite Disney characters, and more.'
+            }
+        },
+        'entityCard2': {
+            'id': '',
+            'type': 'webDescription',
+            'text': '<a class="htmlContentBlock heroCopyButtonContainer3" href="http://disneyworld.disney.go.com/entertainment/magic-kingdom/">\n    <div class="heroButtonWrapper">\n        <div class="htmlContainer">\n            <img class="heroCopyButtonImage" src="https://secure.parksandresorts.wdpromedia.com/resize/mwImage/1/170/96/90/wdpromedia.disney.go.com/media/wdpro-assets/parks-and-tickets/destinations/magic-kingdom/magic-kingdom-02.jpg?01102013135421" alt="A young female Guest dressed up as an enchanting Disney Princess kisses Mickey Mouse on thenose"/>\n            <div class="heroCopyButtonContent">\n                <h3>Entertainment</h3>\n                <p>Celebrate with Disney Characters at spirited parades, andcatch the stunning fireworks extravaganza.</p>\n            </div>\n        </div>\n        <div class="arrow"></div>\n    </div>\n</a>',
+            'sections': {
+                'buttonCardHeader': 'Entertainment',
+                'buttonCardBody': 'Celebrate with Disney Characters at spirited parades, and catch the stunning fireworks extravaganza.'
+            }
+        },
+        'entityCard4': {
+            'id': '',
+            'type': 'webDescription',
+            'text': '<a class="htmlContentBlock heroCopyButtonContainer3" href="https://disneyworld.disney.go.com/events-tours/magic-kingdom/">\n    <div class="heroButtonWrapper">\n        <div class="htmlContainer">\n            <img class="heroCopyButtonImage" src="https://secure.parksandresorts.wdpromedia.com/resize/mwImage/1/170/96/90/wdpromedia.disney.go.com/media/wdpro-assets/parks-and-tickets/destinations/magic-kingdom/magic-kingdom-04.jpg?12032013072128" alt="Close-up of a statue of Musketeer Donald Duck holding a Daisy Duck jack-o-lantern"/>\n            <div class="heroCopyButtonContent">\n                <h3>Events & Tours</h3>\n                <p>Join a dastardly pirate crew,see the park\u2019s steam trains up close and vanquish Disney Villains.</p>\n            </div>\n        </div>\n        <div class="arrow"></div>\n    </div>\n</a>',
+            'sections': {
+                'buttonCardHeader': 'Events &amp; Tours',
+                'buttonCardBody': 'Join a dastardly pirate crew, see the park\u2019s steam trains up close and vanquish Disney Villains.'
+            }
+        },
+        'shortDescriptionMobile': {
+            'id': '',
+            'type': 'mobileDescription',
+            'text': 'Fairytale dreams come true for children of all ages at Magic Kingdom park. Delight in classic attractions, enchanting fireworks, musical parades and beloved Disney Characters across 6 whimsical lands. See fantasy become a reality as you explore Adventureland, Frontierland, Liberty Square, Fantasyland\u2014open while undergoing the largest expansion in Magic Kingdom history!\u2014Tomorrowland and Main Street, U.S.A areas. Zoom through space, become a swashbuckling pirate and watch fireworks light up the sky over Cinderella Castle.',
+            'sections': {
+                'body': 'Fairytale dreams come true for children of all ages at Magic Kingdom park. Delight in classic attractions, enchanting fireworks, musical parades and beloved Disney Characters across 6 whimsical lands. See fantasy become a reality as you explore Adventureland, Frontierland, Liberty Square, Fantasyland\u2014open while undergoing the largest expansion in Magic Kingdom history!\u2014Tomorrowland and Main Street, U.S.Aareas. Zoom through space, become a swashbuckling pirate and watch fireworks light up the sky over Cinderella Castle.'
+            }
+        }
+    },
+    'admissionRequired': True,
+    'urlFriendlyId': 'magic-kingdom',
+    'webLinks': {
+        'wdwDetail': {
+            'href': 'https://disneyworld.disney.go.com/destinations/magic-kingdom/'
+        }
+    },
+    'links': {
+        'ancestorThemePark': {
+            'title': 'Magic Kingdom Park',
+            'href': 'https://api.wdpro.disney.go.com/global-pool-override-B/facility-service/theme-parks/80007944'
+        },
+        'waitTimes': {
+            'href': 'https://api.wdpro.disney.go.com/global-pool-override-B/facility-service/theme-parks/80007944/wait-times'
+        },
+        'self': {
+            'href': 'https://api.wdpro.disney.go.com/global-pool-override-B/facility-service/theme-parks/80007944'
+        },
+        'entertainments': {
+            'href': 'https://api.wdpro.disney.go.com/global-pool-override-B/facility-service/theme-parks/80007944/entertainments'
+        },
+        'standardTicketProduct': {
+            'href': 'https://api.wdpro.disney.go.com/global-pool-override-B/product-service/product-types/myw-mk?affiliations=STD_GST,FL_RESIDENT&bookingContextId=progenstr&bookingContextType=stand-alone-tickets&destinationId=80007798&priceGridType=regular&renewal=false&storeId=wdw'
+        },
+        'ancestorDestination': {
+            'title': 'Walt Disney World Resort',
+            'href': 'https://api.wdpro.disney.go.com/global-pool-override-B/facility-service/destinations/80007798'
+        },
+        'standardTicket': {
+            'href': 'https://api.wdpro.disney.go.com/global-pool-override-B/product-service/tickets/myw-mk'
+        },
+        'characterAppearances': {
+            'href': 'https://api.wdpro.disney.go.com/global-pool-override-B/facility-service/theme-parks/80007944/character-appearances'
+        },
+        'scheduleMax': {
+            'href': 'https://api.wdpro.disney.go.com/global-pool-override-B/facility-service/schedules/80007944?days=190'
+        },
+        'ancestorResortArea': {
+            'title': 'Magic Kingdom Resort Area',
+            'href': 'https://api.wdpro.disney.go.com/global-pool-override-B/facility-service/resort-areas/1258'
+        },
+        'schedule': {
+            'href': 'https://api.wdpro.disney.go.com/global-pool-override-B/facility-service/schedules/80007944'
+        }
+    },
+    'relatedLocations': {
+        'vantagePoints': [{
+            'links': {
+                'self': {
+                    'href': 'https://api.wdpro.disney.go.com/global-pool-override-B/facility-service/points-of-interest/16893895'
+                }
+            },
+            'facilityType': 'point-of-interest'
+        }, {
+            'links': {
+                'self': {
+                    'href': 'https://api.wdpro.disney.go.com/global-pool-override-B/facility-service/points-of-interest/16893900'
+                }
+            },
+            'facilityType': 'point-of-interest'
+        }, {
+            'links': {
+                'self': {
+                    'href': 'https://api.wdpro.disney.go.com/global-pool-override-B/facility-service/points-of-interest/16895169'
+                }
+            },
+            'facilityType': 'point-of-interest'
+        }, {
+            'links': {
+                'self': {
+                    'href': 'https://api.wdpro.disney.go.com/global-pool-override-B/facility-service/points-of-interest/17205892'
+                }
+            },
+            'facilityType': 'point-of-interest'
+        }, {
+            'links': {
+                'self': {
+                    'href': 'https://api.wdpro.disney.go.com/global-pool-override-B/facility-service/points-of-interest/17205894'
+                }
+            },
+            'facilityType': 'point-of-interest'
+        }, {
+            'links': {
+                'self': {
+                    'href': 'https://api.wdpro.disney.go.com/global-pool-override-B/facility-service/points-of-interest/17205895'
+                }
+            },
+            'facilityType': 'point-of-interest'
+        }, {
+            'links': {
+                'self': {
+                    'href': 'https://api.wdpro.disney.go.com/global-pool-override-B/facility-service/points-of-interest/17946302'
+                }
+            },
+            'facilityType': 'point-of-interest'
+        }, {
+            'links': {
+                'self': {
+                    'href': 'https://api.wdpro.disney.go.com/global-pool-override-B/facility-service/points-of-interest/17957463'
+                }
+            },
+            'facilityType': 'point-of-interest'
+        }]
+    },
+    'disneyOwned': True,
+    'ancestorDestination': {
+        'id': '80007798;entityType=destination',
+        'links': {
+            'self': {
+                'title': 'Walt Disney World Resort',
+                'href': 'https://api.wdpro.disney.go.com/global-pool-override-B/facility-service/destinations/80007798'
+            }
+        }
+    },
+    'disneyOperated': True,
+    'name': 'Magic Kingdom\xae Park',
+    'media': {
+        'itineraryDayViewParkHeader': {
+            'type': 'png',
+            'url': 'https://secure.parksandresorts.wdpromedia.com/resize/mwImage/2/930/156/90/wdpromedia.disney.go.com/media/wdpro-assets/vignettes/930x156-vignettes/PEP_PCWEB_Viggnettes_930x156_Magic_Kingdom.png?30082012193245',
+            'title': 'Magic Kingdom',
+            'alt': 'Magic Kingdom',
+            'transcodeTemplate': 'https://secure.parksandresorts.wdpromedia.com/resize/mwImage/2/{width}/{height}/90/wdpromedia.disney.go.com/media/wdpro-assets/vignettes/930x156-vignettes/PEP_PCWEB_Viggnettes_930x156_Magic_Kingdom.png?30082012193245'
+        },
+        'finderStandardThumb': {
+            'type': 'jpg',
+            'url': 'https://secure.parksandresorts.wdpromedia.com/resize/mwImage/1/170/96/90/wdpromedia.disney.go.com/media/wdpro-assets/parks-and-tickets/destinations/magic-kingdom/magic-kingdom-00.jpg?12032013080346',
+            'title': 'Magic Kingdom Park',
+            'alt': 'Cinderella Castle after sundown',
+            'transcodeTemplate': 'https://secure.parksandresorts.wdpromedia.com/resize/mwImage/1/{width}/{height}/90/wdpromedia.disney.go.com/media/wdpro-assets/parks-and-tickets/destinations/magic-kingdom/magic-kingdom-00.jpg?12032013080346'
+        },
+        'X-magic-kingdom-480x270': {
+            'type': 'JPG',
+            'url': 'https://secure.parksandresorts.wdpromedia.com/oneSource/static/X-magic-kingdom-00-480x270.jpg',
+            'title': 'X-magic-kingdom-480x270'
+        },
+        'parkLandingPage': {
+            'type': 'png',
+            'url': 'https://secure.parksandresorts.wdpromedia.com/resize/mwImage/2/325/295/90/wdpromedia.disney.go.com/media/wdpro-assets/vignettes/mdx-landing-vignettes/PEP_PC_InContext_ParkIcons_Magic_Kingdom.png?20092012063635',
+            'title': 'Magic Kingdom Park',
+            'alt': 'Magic Kingdom Park',
+            'transcodeTemplate': 'https://secure.parksandresorts.wdpromedia.com/resize/mwImage/2/{width}/{height}/90/wdpromedia.disney.go.com/media/wdpro-assets/vignettes/mdx-landing-vignettes/PEP_PC_InContext_ParkIcons_Magic_Kingdom.png?20092012063635'
+        },
+        'finderDetailMobileHero': {
+            'type': 'jpg',
+            'url': 'https://secure.parksandresorts.wdpromedia.com/resize/mwImage/1/720/405/90/wdpromedia.disney.go.com/media/wdpro-assets/parks-and-tickets/destinations/magic-kingdom/magic-kingdom-00.jpg?12032013080346',
+            'title': 'Magic Kingdom Park',
+            'alt': 'Cinderella Castle after sundown',
+            'transcodeTemplate': 'https://secure.parksandresorts.wdpromedia.com/resize/mwImage/1/{width}/{height}/90/wdpromedia.disney.go.com/media/wdpro-assets/parks-and-tickets/destinations/magic-kingdom/magic-kingdom-00.jpg?12032013080346'
+        },
+        'itineraryPhoneView': {
+            'type': 'png',
+            'url': 'https://secure.parksandresorts.wdpromedia.com/resize/mwImage/2/720/184/90/wdpromedia.disney.go.com/media/wdpro-assets/vignettes/720x184-vignettes/_01_v_magic_kingdom.png?07112013084536',
+            'title': 'Magic Kingdom Park',
+            'alt': 'Magic Kingdom Park',
+            'transcodeTemplate': 'https://secure.parksandresorts.wdpromedia.com/resize/mwImage/2/{width}/{height}/90/wdpromedia.disney.go.com/media/wdpro-assets/vignettes/720x184-vignettes/_01_v_magic_kingdom.png?07112013084536'
+        },
+        'finderDetailFullWidthHero': {
+            'type': 'jpg',
+            'url': 'https://secure.parksandresorts.wdpromedia.com/resize/mwImage/1/900/360/90/wdpromedia.disney.go.com/media/wdpro-assets/parks-and-tickets/destinations/magic-kingdom/magic-kingdom-00-full.jpg?12032013080923',
+            'title': 'Magic Kingdom Park',
+            'alt': 'Cinderella Castle illuminated at night by pink lights',
+            'transcodeTemplate': 'https://secure.parksandresorts.wdpromedia.com/resize/mwImage/1/{width}/{height}/90/wdpromedia.disney.go.com/media/wdpro-assets/parks-and-tickets/destinations/magic-kingdom/magic-kingdom-00-full.jpg?12032013080923'
+        },
+        'X-magic-kingdom-540x304': {
+            'type': 'JPG',
+            'url': 'https://secure.parksandresorts.wdpromedia.com/oneSource/static/X-magic-kingdom-00-540x304.jpg',
+            'title': 'X-magic-kingdom-540x304'
+        },
+        'X-magic-kingdom-320x180': {
+            'type': 'JPG',
+            'url': 'https://secure.parksandresorts.wdpromedia.com/oneSource/static/X-magic-kingdom-00-320x180.jpg',
+            'title': 'X-magic-kingdom-320x180'
+        },
+        'X-magic-kingdom-720x405': {
+            'type': 'JPG',
+            'url': 'https://secure.parksandresorts.wdpromedia.com/oneSource/static/X-magic-kingdom-00-720x405.jpg',
+            'title': 'X-magic-kingdom-720x405'
+        },
+        'itineraryTripViewMyPlans': {
+            'type': 'png',
+            'url': 'https://secure.parksandresorts.wdpromedia.com/resize/mwImage/2/185/60/90/wdpromedia.disney.go.com/media/wdpro-assets/vignettes/185x60-vignettes/PEP_PCWEB_Viggnettes_185x60_Magic_Kingdom.png?30082012192822',
+            'title': 'Magic Kingdom',
+            'alt': 'Magic Kingdom',
+            'transcodeTemplate': 'https://secure.parksandresorts.wdpromedia.com/resize/mwImage/2/{width}/{height}/90/wdpromedia.disney.go.com/media/wdpro-assets/vignettes/185x60-vignettes/PEP_PCWEB_Viggnettes_185x60_Magic_Kingdom.png?30082012192822'
+        },
+        'mapBubbleThumbSmall': {
+            'type': 'jpg',
+            'url': 'https://secure.parksandresorts.wdpromedia.com/resize/mwImage/1/45/45/90/wdpromedia.disney.go.com/media/wdpro-assets/parks-and-tickets/destinations/magic-kingdom/magic-kingdom-00-sq.jpg?27092012135938',
+            'title': 'Magic Kingdom Park',
+            'alt': 'Cinderella Castle after sundown',
+            'transcodeTemplate': 'https://secure.parksandresorts.wdpromedia.com/resize/mwImage/1/{width}/{height}/90/wdpromedia.disney.go.com/media/wdpro-assets/parks-and-tickets/destinations/magic-kingdom/magic-kingdom-00-sq.jpg?27092012135938'
+        },
+        'X-magic-kingdom-82x82': {
+            'type': 'JPG',
+            'url': 'https://secure.parksandresorts.wdpromedia.com/oneSource/static/X-magic-kingdom-00-sq-82x82.jpg',
+            'title': 'X-magic-kingdom-82x82'
+        },
+        'Magic Kingdom Thumbnail 173x117': {
+            'type': 'PNG',
+            'url': 'https://secure.parksandresorts.wdpromedia.com/oneSource/static/park_selection-mk.png',
+            'title': 'Magic Kingdom Thumbnail 173x117'
+        },
+        'X-magic-kingdom-125x125': {
+            'type': 'JPG',
+            'url': 'https://secure.parksandresorts.wdpromedia.com/oneSource/static/X-magic-kingdom-00-sq-125x125.jpg',
+            'title': 'X-magic-kingdom-125x125'
+        },
+        'X-magic-kingdom-49x49': {
+            'type': 'JPG',
+            'url': 'https://secure.parksandresorts.wdpromedia.com/oneSource/static/X-magic-kingdom-00-sq-49x49.jpg',
+            'title': 'X-magic-kingdom-49x49'
+        },
+        'X-magic-kingdom-73x73': {
+            'type': 'JPG',
+            'url': 'https://secure.parksandresorts.wdpromedia.com/oneSource/static/X-magic-kingdom-00-sq-73x73.jpg',
+            'title': 'X-magic-kingdom-73x73'
+        },
+        'finderListMobileSquare': {
+            'type': 'jpg',
+            'url': 'https://secure.parksandresorts.wdpromedia.com/resize/mwImage/1/125/125/90/wdpromedia.disney.go.com/media/wdpro-assets/parks-and-tickets/destinations/magic-kingdom/magic-kingdom-00-sq.jpg?27092012135938',
+            'title': 'Magic Kingdom Park',
+            'alt': 'Cinderella Castle after sundown',
+            'transcodeTemplate': 'https://secure.parksandresorts.wdpromedia.com/resize/mwImage/1/{width}/{height}/90/wdpromedia.disney.go.com/media/wdpro-assets/parks-and-tickets/destinations/magic-kingdom/magic-kingdom-00-sq.jpg?27092012135938'
+        },
+        'Magic Kingdom Thumbnail 162x104': {
+            'type': 'PNG',
+            'url': 'https://secure.parksandresorts.wdpromedia.com/oneSource/static/park_selection-mk2.png',
+            'title': 'Magic Kingdom Thumbnail 162x104'
+        },
+        'X-magic-kingdom-720x184': {
+            'type': 'PNG',
+            'url': 'https://secure.parksandresorts.wdpromedia.com/oneSource/static/_01_v_magic_kingdom_720.png',
+            'title': 'X-magic-kingdom-720x184'
+        },
+        'mapBubbleThumbLarge': {
+            'type': 'jpg',
+            'url': 'https://secure.parksandresorts.wdpromedia.com/resize/mwImage/1/90/90/90/wdpromedia.disney.go.com/media/wdpro-assets/parks-and-tickets/destinations/magic-kingdom/magic-kingdom-00-sq.jpg?27092012135938',
+            'title': 'Magic Kingdom Park',
+            'alt': 'Cinderella Castle after sundown',
+            'transcodeTemplate': 'https://secure.parksandresorts.wdpromedia.com/resize/mwImage/1/{width}/{height}/90/wdpromedia.disney.go.com/media/wdpro-assets/parks-and-tickets/destinations/magic-kingdom/magic-kingdom-00-sq.jpg?27092012135938'
+        },
+        'itineraryTripViewTrade': {
+            'type': 'png',
+            'url': 'https://secure.parksandresorts.wdpromedia.com/resize/mwImage/2/170/60/90/wdpromedia.disney.go.com/media/wdpro-assets/vignettes/170x60-vignettes/PEP_PCWEB_Viggnettes_170x60_Magic_Kingdom.png?30082012192856',
+            'title': 'Magic Kingdom',
+            'alt': 'Magic Kingdom',
+            'transcodeTemplate': 'https://secure.parksandresorts.wdpromedia.com/resize/mwImage/2/{width}/{height}/90/wdpromedia.disney.go.com/media/wdpro-assets/vignettes/170x60-vignettes/PEP_PCWEB_Viggnettes_170x60_Magic_Kingdom.png?30082012192856'
+        },
+        'X-magic-kingdom-454x154': {
+            'type': 'PNG',
+            'url': 'https://secure.parksandresorts.wdpromedia.com/oneSource/static/_01_v_magic_kingdom_454.png',
+            'title': 'X-magic-kingdom-454x154'
+        },
+        'MK Town Square Panoramic 963x225': {
+            'type': 'PNG',
+            'url': 'https://secure.parksandresorts.wdpromedia.com/oneSource/static/park_info_05-hero.png',
+            'title': 'MK Town Square Panoramic 963x225'
+        },
+        'X-magic-kingdom-36x36': {
+            'type': 'JPG',
+            'url': 'https://secure.parksandresorts.wdpromedia.com/oneSource/static/X-magic-kingdom-00-sq-36x36.jpg',
+            'title': 'X-magic-kingdom-36x36'
+        },
+        'Magic Kingdom Overview - 119x89 - WDPRO': {
+            'type': 'MP4',
+            'url': 'https://secure.parksandresorts.wdpromedia.com/oneSource/static/Magic Kingdom Overview - 119x89 .mp4',
+            'title': 'Magic Kingdom Overview - 119x89 - WDPRO'
+        },
+        'X-magic-kingdom-640x360': {
+            'type': 'JPG',
+            'url': 'https://secure.parksandresorts.wdpromedia.com/oneSource/static/X-magic-kingdom-00-640x360.jpg',
+            'title': 'X-magic-kingdom-640x360'
+        },
+        'Three Parks Stack 284x156': {
+            'type': 'PNG',
+            'url': 'https://secure.parksandresorts.wdpromedia.com/oneSource/static/day_view-parkstack.png',
+            'title': 'Three Parks Stack 284x156'
+        },
+        'Magic Kingdom\xae-Digital Asset #1': {
+            'type': 'JPG',
+            'url': 'https://secure.parksandresorts.wdpromedia.com/oneSource/static/A11723956.jpg',
+            'title': 'Magic Kingdom\xae-Digital Asset #1'
+        },
+        'Magic Kingdom Overview - 160x120 - WDPRO': {
+            'type': 'MP4',
+            'url': 'https://secure.parksandresorts.wdpromedia.com/oneSource/static/Magic Kingdom Overview - 160x120.mp4',
+            'title': 'Magic Kingdom Overview - 160x120 - WDPRO'
+        },
+        'retinaTabletvignetteParks': {
+            'type': 'png',
+            'url': 'https://secure.parksandresorts.wdpromedia.com/resize/mwImage/2/1860/312/90/wdpromedia.disney.go.com/media/wdpro-assets/vignettes/1860x312-vignettes/Magic-Kingdom-vignette-1860x312.png?24012014082640',
+            'title': 'Magic Kingdom Park',
+            'alt': 'Magic Kingdom Park',
+            'transcodeTemplate': 'https://secure.parksandresorts.wdpromedia.com/resize/mwImage/2/{width}/{height}/90/wdpromedia.disney.go.com/media/wdpro-assets/vignettes/1860x312-vignettes/Magic-Kingdom-vignette-1860x312.png?24012014082640'
+        },
+        'itineraryTripViewPark': {
+            'type': 'png',
+            'url': 'https://secure.parksandresorts.wdpromedia.com/resize/mwImage/2/216/80/90/wdpromedia.disney.go.com/media/wdpro-assets/vignettes/216x80-vignettes/PEP_PCWEB_Vignettes_216x80_Magic_Kingdom.png?30082012193026',
+            'title': 'Magic Kingdom',
+            'alt': 'Magic Kingdom',
+            'transcodeTemplate': 'https://secure.parksandresorts.wdpromedia.com/resize/mwImage/2/{width}/{height}/90/wdpromedia.disney.go.com/media/wdpro-assets/vignettes/216x80-vignettes/PEP_PCWEB_Vignettes_216x80_Magic_Kingdom.png?30082012193026'
+        },
+        'itineraryTabletView': {
+            'type': 'png',
+            'url': 'https://secure.parksandresorts.wdpromedia.com/resize/mwImage/2/454/154/90/wdpromedia.disney.go.com/media/wdpro-assets/vignettes/454x154-vignettes/_01_v_magic_kingdom.png?07112013083058',
+            'title': 'Magic Kingdom Park',
+            'alt': 'Magic Kingdom Park',
+            'transcodeTemplate': 'https://secure.parksandresorts.wdpromedia.com/resize/mwImage/2/{width}/{height}/90/wdpromedia.disney.go.com/media/wdpro-assets/vignettes/454x154-vignettes/_01_v_magic_kingdom.png?07112013083058'
+        },
+        'X-magic-kingdom-109x109': {
+            'type': 'JPG',
+            'url': 'https://secure.parksandresorts.wdpromedia.com/oneSource/static/X-magic-kingdom-00-sq-109x109.jpg',
+            'title': 'X-magic-kingdom-109x109'
+        },
+        'MagicKingdom - 162x80': {
+            'type': 'JPG',
+            'url': 'https://secure.parksandresorts.wdpromedia.com/oneSource/static/MK_162x80_OneSource.jpg',
+            'title': 'MagicKingdom - 162x80'
+        },
+        'X-magic-kingdom-98x98': {
+            'type': 'JPG',
+            'url': 'https://secure.parksandresorts.wdpromedia.com/oneSource/static/X-magic-kingdom-00-sq-98x98.jpg',
+            'title': 'X-magic-kingdom-98x98'
+        },
+        'retinaMobilevignetteParks': {
+            'type': 'png',
+            'url': 'https://secure.parksandresorts.wdpromedia.com/resize/mwImage/2/1076/275/90/wdpromedia.disney.go.com/media/wdpro-assets/vignettes/1076x275-vignettes/Magic-Kingdom-vignette-1076x275.png?24012014082448',
+            'title': 'Magic Kingdom Park',
+            'alt': 'Magic Kingdom Park',
+            'transcodeTemplate': 'https://secure.parksandresorts.wdpromedia.com/resize/mwImage/2/{width}/{height}/90/wdpromedia.disney.go.com/media/wdpro-assets/vignettes/1076x275-vignettes/Magic-Kingdom-vignette-1076x275.png?24012014082448'
+        }
+    },
+    'type': 'theme-park',
+    'advisories': [{
+        'links': {
+            'self': {
+                'href': 'https://api.wdpro.disney.go.com/global-pool-override-B/facility-service/advisories/17843038'
+            }
+        }
+    }, {
+        'links': {
+            'self': {
+                'href': 'https://api.wdpro.disney.go.com/global-pool-override-B/facility-service/advisories/17851812'
+            }
+        }
+    }, {
+        'links': {
+            'self': {
+                'href': 'https://api.wdpro.disney.go.com/global-pool-override-B/facility-service/advisories/17874013'
+            }
+        }
+    }, {
+        'links': {
+            'self': {
+                'href': 'https://api.wdpro.disney.go.com/global-pool-override-B/facility-service/advisories/17885652'
+            }
+        }
+    }, {
+        'links': {
+            'self': {
+                'href': 'https://api.wdpro.disney.go.com/global-pool-override-B/facility-service/advisories/17885659'
+            }
+        }
+    }, {
+        'links': {
+            'self': {
+                'href': 'https://api.wdpro.disney.go.com/global-pool-override-B/facility-service/advisories/17910861'
+            }
+        }
+    }, {
+        'links': {
+            'self': {
+                'href': 'https://api.wdpro.disney.go.com/global-pool-override-B/facility-service/advisories/17912776'
+            }
+        }
+    }, {
+        'links': {
+            'self': {
+                'href': 'https://api.wdpro.disney.go.com/global-pool-override-B/facility-service/advisories/17932050'
+            }
+        }
+    }, {
+        'links': {
+            'self': {
+                'href': 'https://api.wdpro.disney.go.com/global-pool-override-B/facility-service/advisories/17937750'
+            }
+        }
+    }, {
+        'links': {
+            'self': {
+                'href': 'https://api.wdpro.disney.go.com/global-pool-override-B/facility-service/advisories/17938731'
+            }
+        }
+    }, {
+        'links': {
+            'self': {
+                'href': 'https://api.wdpro.disney.go.com/global-pool-override-B/facility-service/advisories/17941993'
+            }
+        }
+    }, {
+        'links': {
+            'self': {
+                'href': 'https://api.wdpro.disney.go.com/global-pool-override-B/facility-service/advisories/17944719'
+            }
+        }
+    }, {
+        'links': {
+            'self': {
+                'href': 'https://api.wdpro.disney.go.com/global-pool-override-B/facility-service/advisories/17944738'
+            }
+        }
+    }, {
+        'links': {
+            'self': {
+                'href': 'https://api.wdpro.disney.go.com/global-pool-override-B/facility-service/advisories/17945501'
+            }
+        }
+    }, {
+        'links': {
+            'self': {
+                'href': 'https://api.wdpro.disney.go.com/global-pool-override-B/facility-service/advisories/17948174'
+            }
+        }
+    }, {
+        'links': {
+            'self': {
+                'href': 'https://api.wdpro.disney.go.com/global-pool-override-B/facility-service/advisories/17948538'
+            }
+        }
+    }, {
+        'links': {
+            'self': {
+                'href': 'https://api.wdpro.disney.go.com/global-pool-override-B/facility-service/advisories/17950718'
+            }
+        }
+    }, {
+        'links': {
+            'self': {
+                'href': 'https://api.wdpro.disney.go.com/global-pool-override-B/facility-service/advisories/17951190'
+            }
+        }
+    }, {
+        'links': {
+            'self': {
+                'href': 'https://api.wdpro.disney.go.com/global-pool-override-B/facility-service/advisories/17954529'
+            }
+        }
+    }, {
+        'links': {
+            'self': {
+                'href': 'https://api.wdpro.disney.go.com/global-pool-override-B/facility-service/advisories/17968833'
+            }
+        }
+    }, {
+        'links': {
+            'self': {
+                'href': 'https://api.wdpro.disney.go.com/global-pool-override-B/facility-service/advisories/17974192'
+            }
+        }
+    }, {
+        'links': {
+            'self': {
+                'href': 'https://api.wdpro.disney.go.com/global-pool-override-B/facility-service/advisories/18029342'
+            }
+        }
+    }, {
+        'links': {
+            'self': {
+                'href': 'https://api.wdpro.disney.go.com/global-pool-override-B/facility-service/advisories/18034079'
+            }
+        }
+    }, {
+        'links': {
+            'self': {
+                'href': 'https://api.wdpro.disney.go.com/global-pool-override-B/facility-service/advisories/18035259'
+            }
+        }
+    }, {
+        'links': {
+            'self': {
+                'href': 'https://api.wdpro.disney.go.com/global-pool-override-B/facility-service/advisories/18035845'
+            }
+        }
+    }, {
+        'links': {
+            'self': {
+                'href': 'https://api.wdpro.disney.go.com/global-pool-override-B/facility-service/advisories/18037667'
+            }
+        }
+    }, {
+        'links': {
+            'self': {
+                'href': 'https://api.wdpro.disney.go.com/global-pool-override-B/facility-service/advisories/18039080'
+            }
+        }
+    }, {
+        'links': {
+            'self': {
+                'href': 'https://api.wdpro.disney.go.com/global-pool-override-B/facility-service/advisories/18042932'
+            }
+        }
+    }, {
+        'links': {
+            'self': {
+                'href': 'https://api.wdpro.disney.go.com/global-pool-override-B/facility-service/advisories/18048527'
+            }
+        }
+    }, {
+        'links': {
+            'self': {
+                'href': 'https://api.wdpro.disney.go.com/global-pool-override-B/facility-service/advisories/18048708'
+            }
+        }
+    }, {
+        'links': {
+            'self': {
+                'href': 'https://api.wdpro.disney.go.com/global-pool-override-B/facility-service/advisories/18048729'
+            }
+        }
+    }, {
+        'links': {
+            'self': {
+                'href': 'https://api.wdpro.disney.go.com/global-pool-override-B/facility-service/advisories/18051724'
+            }
+        }
+    }, {
+        'links': {
+            'self': {
+                'href': 'https://api.wdpro.disney.go.com/global-pool-override-B/facility-service/advisories/18052543'
+            }
+        }
+    }, {
+        'links': {
+            'self': {
+                'href': 'https://api.wdpro.disney.go.com/global-pool-override-B/facility-service/advisories/18055552'
+            }
+        }
+    }, {
+        'links': {
+            'self': {
+                'href': 'https://api.wdpro.disney.go.com/global-pool-override-B/facility-service/advisories/18058271'
+            }
+        }
+    }, {
+        'links': {
+            'self': {
+                'href': 'https://api.wdpro.disney.go.com/global-pool-override-B/facility-service/advisories/18060682'
+            }
+        }
+    }, {
+        'links': {
+            'self': {
+                'href': 'https://api.wdpro.disney.go.com/global-pool-override-B/facility-service/advisories/18062406'
+            }
+        }
+    }, {
+        'links': {
+            'self': {
+                'href': 'https://api.wdpro.disney.go.com/global-pool-override-B/facility-service/advisories/18062445'
+            }
+        }
+    }, {
+        'links': {
+            'self': {
+                'href': 'https://api.wdpro.disney.go.com/global-pool-override-B/facility-service/advisories/18069569'
+            }
+        }
+    }, {
+        'links': {
+            'self': {
+                'href': 'https://api.wdpro.disney.go.com/global-pool-override-B/facility-service/advisories/18071154'
+            }
+        }
+    }, {
+        'links': {
+            'self': {
+                'href': 'https://api.wdpro.disney.go.com/global-pool-override-B/facility-service/advisories/18071940'
+            }
+        }
+    }, {
+        'links': {
+            'self': {
+                'href': 'https://api.wdpro.disney.go.com/global-pool-override-B/facility-service/advisories/18072189'
+            }
+        }
+    }, {
+        'links': {
+            'self': {
+                'href': 'https://api.wdpro.disney.go.com/global-pool-override-B/facility-service/advisories/18073080'
+            }
+        }
+    }, {
+        'links': {
+            'self': {
+                'href': 'https://api.wdpro.disney.go.com/global-pool-override-B/facility-service/advisories/18073723'
+            }
+        }
+    }, {
+        'links': {
+            'self': {
+                'href': 'https://api.wdpro.disney.go.com/global-pool-override-B/facility-service/advisories/18074097'
+            }
+        }
+    }, {
+        'links': {
+            'self': {
+                'href': 'https://api.wdpro.disney.go.com/global-pool-override-B/facility-service/advisories/18077974'
+            }
+        }
+    }, {
+        'links': {
+            'self': {
+                'href': 'https://api.wdpro.disney.go.com/global-pool-override-B/facility-service/advisories/18082460'
+            }
+        }
+    }],
+    'keywords': ['magic kingdom', 'magic kingdom park', 'magic kingdom hours'],
+    'subType': 'Theme Park',
+    'contentType': 'Facility'
+}

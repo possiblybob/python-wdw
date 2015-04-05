@@ -1,0 +1,182 @@
+{
+    'id': '80007798;entityType=destination',
+    'disneyOperated': True,
+    'urlFriendlyId': 'walt-disney-world',
+    'descriptions': {
+        'overviewShortDescription': {
+            'id': '',
+            'type': 'webDescription',
+            'text': 'Walt Disney World Resort is a vacation wonderland that includes 4 theme parks, 2 water parks and over 20 Resort hotels\u2014plus world-class shopping, dining, entertainment, recreation, sports and much, much more. Visit an enchanted kingdom, explore the world of today and tomorrow, star in a Hollywood movie and venture into exotic realm filled with amazing animals. Find out why this really is the place where dreams come true!  <br/>',
+            'sections': {
+                'body': 'Walt Disney World Resort is a vacation wonderland that includes 4 theme parks, 2 water parks and over 20 Resort hotels\u2014plus world-class shopping, dining, entertainment, recreation, sports and much, much more. Visit an enchanted kingdom, explore the world of today and tomorrow, star in a Hollywood movie and venture into exotic realm filled with amazing animals. Find out why this really is the place where dreams come true!'
+            }
+        },
+        'shortDescription': {
+            'id': '',
+            'type': 'webDescription',
+            'text': 'Walt Disney World Resort is a vacation wonderland that includes 4 theme parks, 2 water parks and over 20 Resort hotels\u2014plus world-class shopping, dining, entertainment, recreation, sports and much, much more. Visit an enchanted kingdom, explore the world of today and tomorrow, star in a Hollywood movie and venture into exotic realm filled with amazing animals. Find out why this really is the place where dreamscome true!  <br/>',
+            'sections': {
+                'body': 'Walt Disney World Resort is a vacation wonderland that includes 4 theme parks, 2 water parks and over 20 Resort hotels\u2014plus world-class shopping, dining, entertainment, recreation, sports and much, much more. Visit an enchanted kingdom, explore the world of today and tomorrow, star in a Hollywood movie and venture into exotic realm filled with amazing animals. Find out why this really is the place where dreams come true!'
+            }
+        }
+    },
+    'media': {
+        'finderStandardThumb': {
+            'type': 'jpg',
+            'url': 'https://secure.parksandresorts.wdpromedia.com/resize/mwImage/1/170/96/90/wdpromedia.disney.go.com/media/wdpro-assets/parks-and-tickets/destinations/walt-disney-world/walt-disney-world-00.jpg?05062014064054',
+            'title': 'Walt Disney World Resort',
+            'alt': 'Walt Disney World Resort',
+            'transcodeTemplate': 'https://secure.parksandresorts.wdpromedia.com/resize/mwImage/1/{width}/{height}/90/wdpromedia.disney.go.com/media/wdpro-assets/parks-and-tickets/destinations/walt-disney-world/walt-disney-world-00.jpg?05062014064054'
+        },
+        'X-walt-disney-world-454x154': {
+            'type': 'PNG',
+            'url': 'https://secure.parksandresorts.wdpromedia.com/oneSource/static/_10_v_walt_disney_world-454x154.png',
+            'title': 'X-walt-disney-world-454x154'
+        },
+        'itineraryTabletView': {
+            'type': 'png',
+            'url': 'https://secure.parksandresorts.wdpromedia.com/resize/mwImage/2/454/154/90/wdpromedia.disney.go.com/media/wdpro-assets/vignettes/454x154-vignettes/_10_v_walt_disney_world.png?07112013083644',
+            'title': 'Walt Disney World',
+            'alt': 'Walt Disney World',
+            'transcodeTemplate': 'https://secure.parksandresorts.wdpromedia.com/resize/mwImage/2/{width}/{height}/90/wdpromedia.disney.go.com/media/wdpro-assets/vignettes/454x154-vignettes/_10_v_walt_disney_world.png?07112013083644'
+        },
+        'X-walt-disney-world-720x184': {
+            'type': 'PNG',
+            'url': 'https://secure.parksandresorts.wdpromedia.com/oneSource/static/_10_v_walt_disney_world-720x184.png',
+            'title': 'X-walt-disney-world-720x184'
+        },
+        'itineraryPhoneView': {
+            'type': 'png',
+            'url': 'https://secure.parksandresorts.wdpromedia.com/resize/mwImage/2/720/184/90/wdpromedia.disney.go.com/media/wdpro-assets/vignettes/720x184-vignettes/_10_v_walt_disney_world.png?07112013085615',
+            'title': 'Walt Disney World',
+            'alt': 'Walt Disney World',
+            'transcodeTemplate': 'https://secure.parksandresorts.wdpromedia.com/resize/mwImage/2/{width}/{height}/90/wdpromedia.disney.go.com/media/wdpro-assets/vignettes/720x184-vignettes/_10_v_walt_disney_world.png?07112013085615'
+        },
+        'retinaTabletvignetteParks': {
+            'type': 'png',
+            'url': 'https://secure.parksandresorts.wdpromedia.com/resize/mwImage/2/1860/312/90/wdpromedia.disney.go.com/media/wdpro-assets/vignettes/1860x312-vignettes/Walt-Disney-World-vignette-1860x312_2.png?27012015122033',
+            'title': 'Walt Disney World',
+            'alt': 'Walt Disney World',
+            'transcodeTemplate': 'https://secure.parksandresorts.wdpromedia.com/resize/mwImage/2/{width}/{height}/90/wdpromedia.disney.go.com/media/wdpro-assets/vignettes/1860x312-vignettes/Walt-Disney-World-vignette-1860x312_2.png?27012015122033'
+        },
+        'finderDetailNarrowHero': {
+            'type': 'jpg',
+            'url': 'https://secure.parksandresorts.wdpromedia.com/resize/mwImage/1/630/354/90/wdpromedia.disney.go.com/media/wdpro-assets/parks-and-tickets/destinations/walt-disney-world/walt-disney-world-00.jpg?05062014064054',
+            'title': 'Walt Disney World Resort',
+            'alt': 'Walt Disney World Resort',
+            'transcodeTemplate': 'https://secure.parksandresorts.wdpromedia.com/resize/mwImage/1/{width}/{height}/90/wdpromedia.disney.go.com/media/wdpro-assets/parks-and-tickets/destinations/walt-disney-world/walt-disney-world-00.jpg?05062014064054'
+        },
+        'retinaMobilevignetteParks': {
+            'type': 'png',
+            'url': 'https://secure.parksandresorts.wdpromedia.com/resize/mwImage/2/1076/275/90/wdpromedia.disney.go.com/media/wdpro-assets/vignettes/1076x275-vignettes/WDW-vignette-1076x275_2.png?27012015121759',
+            'title': 'Walt Disney World',
+            'alt': 'Walt Disney World',
+            'transcodeTemplate': 'https://secure.parksandresorts.wdpromedia.com/resize/mwImage/2/{width}/{height}/90/wdpromedia.disney.go.com/media/wdpro-assets/vignettes/1076x275-vignettes/WDW-vignette-1076x275_2.png?27012015121759'
+        }
+    },
+    'coordinates': {
+        'North East Bounds': {
+            'gps': {
+                'longitude': '-81.511991973',
+                'latitude': '28.4312915441'
+            }
+        },
+        'South West Bounds': {
+            'gps': {
+                'longitude': '-81.6108689261',
+                'latitude': '28.3335772821'
+            }
+        },
+        'Guest Entrance': {
+            'gps': {
+                'longitude': '-81.569324',
+                'latitude': '28.388195'
+            }
+        }
+    },
+    'name': 'Walt Disney World\xae Resort',
+    'type': 'destination',
+    'links': {
+        'themeParks': {
+            'href': 'https://api.wdpro.disney.go.com/global-pool-override-B/facility-service/destinations/80007798/theme-parks'
+        },
+        'entertainmentFacilities': {
+            'href': 'https://api.wdpro.disney.go.com/global-pool-override-B/facility-service/destinations/80007798/entertainment-facilities'
+        },
+        'scheduleMax': {
+            'href': 'https://api.wdpro.disney.go.com/global-pool-override-B/facility-service/schedules/80007798?days=190'
+        },
+        'lands': {
+            'href': 'https://api.wdpro.disney.go.com/global-pool-override-B/facility-service/destinations/80007798/lands'
+        },
+        'airports': {
+            'href': 'https://api.wdpro.disney.go.com/global-pool-override-B/facility-service/destinations/80007798/airports'
+        },
+        'guestServices': {
+            'href': 'https://api.wdpro.disney.go.com/global-pool-override-B/facility-service/destinations/80007798/guest-services'
+        },
+        'mapConfiguration': {
+            'href': 'https://api.wdpro.disney.go.com/global-pool-override-B/facility-service/map-configurations/80007798'
+        },
+        'recreationActivities': {
+            'href': 'https://api.wdpro.disney.go.com/global-pool-override-B/facility-service/destinations/80007798/recreation-activities'
+        },
+        'products': {
+            'href': 'https://api.wdpro.disney.go.com/global-pool-override-B/product-service/destinations/80007798/products'
+        },
+        'entertainments': {
+            'href': 'https://api.wdpro.disney.go.com/global-pool-override-B/facility-service/destinations/80007798/entertainments'
+        },
+        'tours': {
+            'href': 'https://api.wdpro.disney.go.com/global-pool-override-B/facility-service/destinations/80007798/tours'
+        },
+        'self': {
+            'href': 'https://api.wdpro.disney.go.com/global-pool-override-B/facility-service/destinations/80007798'
+        },
+        'schedule': {
+            'href': 'https://api.wdpro.disney.go.com/global-pool-override-B/facility-service/schedules/80007798'
+        },
+        'spas': {
+            'href': 'https://api.wdpro.disney.go.com/global-pool-override-B/facility-service/destinations/80007798/spas'
+        },
+        'entertainmentVenues': {
+            'href': 'https://api.wdpro.disney.go.com/global-pool-override-B/facility-service/destinations/80007798/entertainment-venues'
+        },
+        'waterParks': {
+            'href': 'https://api.wdpro.disney.go.com/global-pool-override-B/facility-service/destinations/80007798/water-parks'
+        },
+        'recreationFacilities': {
+            'href': 'https://api.wdpro.disney.go.com/global-pool-override-B/facility-service/destinations/80007798/recreation-facilities'
+        },
+        'events': {
+            'href': 'https://api.wdpro.disney.go.com/global-pool-override-B/facility-service/destinations/80007798/events'
+        },
+        'restaurants': {
+            'href': 'https://api.wdpro.disney.go.com/global-pool-override-B/facility-service/destinations/80007798/restaurants'
+        },
+        'shops': {
+            'href': 'https://api.wdpro.disney.go.com/global-pool-override-B/facility-service/destinations/80007798/shops'
+        },
+        'overviews': {
+            'href': 'https://api.wdpro.disney.go.com/global-pool-override-B/facility-service/destinations/80007798/overviews'
+        },
+        'resortAreas': {
+            'href': 'https://api.wdpro.disney.go.com/global-pool-override-B/facility-service/destinations/80007798/resort-areas'
+        },
+        'resorts': {
+            'href': 'https://api.wdpro.disney.go.com/global-pool-override-B/facility-service/destinations/80007798/resorts'
+        },
+        'photoLocations': {
+            'href': 'https://api.wdpro.disney.go.com/global-pool-override-B/facility-service/destinations/80007798/photo-locations'
+        },
+        'attractions': {
+            'href': 'https://api.wdpro.disney.go.com/global-pool-override-B/facility-service/destinations/80007798/attractions'
+        }
+    },
+    'webLinks': {
+        'wdwDetail': {
+            'href': 'https://disneyworld.disney.go.com/destinations/walt-disney-world/'
+        }
+    },
+    'disneyOwned': True
+}

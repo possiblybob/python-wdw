@@ -1,0 +1,35 @@
+{
+    'total': 4,
+    'offset': 0,
+    'limit': 4,
+    'entries': [{
+        'links': {
+            'self': {
+                'href': 'https://api.wdpro.disney.go.com/global-pool-override-B/facility-service/theme-parks/80007944'
+            }
+        }
+    }, {
+        'links': {
+            'self': {
+                'href': 'https://api.wdpro.disney.go.com/global-pool-override-B/facility-service/theme-parks/80007838'
+            }
+        }
+    }, {
+        'links': {
+            'self': {
+                'href': 'https://api.wdpro.disney.go.com/global-pool-override-B/facility-service/theme-parks/80007998'
+            }
+        }
+    }, {
+        'links': {
+            'self': {
+                'href': 'https://api.wdpro.disney.go.com/global-pool-override-B/facility-service/theme-parks/80007823'
+            }
+        }
+    }],
+    'links': {
+        'self': {
+            'href': 'https://api.wdpro.disney.go.com/global-pool-override-B/facility-service/destinations/80007798/theme-parks'
+        }
+    }
+}
