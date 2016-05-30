@@ -28,11 +28,11 @@ class AccessToken(object):
 
 class Ride():
     """models a ride at a park"""
-    def __init__(self, id, name, url, queue_time, status, fastpass_eligible, single_rider_available):
+    def __init__(self, id, name, queue_time, rollup_queue_time, status, fastpass_eligible, single_rider_available):
         self.id = id
         self.name = name
-        self.url = url
         self.queue_time_minutes = queue_time
+        self.queue_time_description = rollup_queue_time
         self.status = status
         self.fastpass_eligible = fastpass_eligible
         self.single_rider_eligible = single_rider_available
@@ -43,10 +43,13 @@ class Ride():
     @classmethod
     def from_json(cls, json):
         """builds object from JSON response"""
-        print(json)
         name = json['name']
         status = json['waitTime']['status']
-        queue_time = int(json['waitTime']['postedWaitMinutes'])
+        try:
+            queue_time = int(json['waitTime']['postedWaitMinutes'])
+        except KeyError:
+            queue_time = 0
+        rollup_queue_time = json['waitTime']['rollUpWaitTimeMessage']
         fastpass_eligible = json['waitTime']['fastPass']['available']
         single_rider_available = json['waitTime']['singleRider']
         response_id = json['id']
@@ -54,8 +57,7 @@ class Ride():
             id = response_id.split(';')[0]
         else:
             id = response_id
-        url = json['links']['attractions']['href']
-        return cls(id, name, url, queue_time, status, fastpass_eligible, single_rider_available)
+        return cls(id, name, queue_time, rollup_queue_time, status, fastpass_eligible, single_rider_available)
 
 
 class Character(object):
@@ -132,9 +134,10 @@ class Resort(object):
 
 class ThemePark(object):
     """models theme park"""
-    def __init__(self, park_id, name):
+    def __init__(self, park_id, name, description):
         self.id = park_id
         self.name = name
+        self.description = description
 
     def __str__(self):
         return self.name
@@ -145,7 +148,8 @@ class ThemePark(object):
         if ';' in theme_park_id:
             theme_park_id = theme_park_id.split(';')[0]
         name = data['name']
-        return cls(theme_park_id, name)
+        description = data['descriptions']['shortDescriptionMobile']['text']
+        return cls(theme_park_id, name, description)
 
 
 class WaltDisneyWorldResort(Resort):

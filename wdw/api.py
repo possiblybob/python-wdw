@@ -123,16 +123,21 @@ class RideClient(ApiClient):
 
     def get_for_theme_park(self, theme_park):
         """gets Rides within ThemePark"""
+        return self.get_for_theme_park_id(theme_park.id)
+
+    def get_for_theme_park_id(self, theme_park_id):
+        """gets Rides within ThemePark"""
         uri = urljoin(
             self.base_url,
             'theme-parks/{id}/wait-times'.format(
-                id=theme_park.id
+                id=theme_park_id
             )
         )
         data = self.make_request(uri)
         rides = []
         for entry in data['entries']:
-            rides.append(Ride.from_json(entry))
+            if entry['type'] == 'Attraction':
+                rides.append(Ride.from_json(entry))
         return rides
 
 
