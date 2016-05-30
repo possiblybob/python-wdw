@@ -7,6 +7,7 @@ from .models import AccessToken, Character, CharacterAppearance, Location, Resor
 
 class ApiClient(object):
     access_token = None
+    base_url = 'https://api.wdpro.disney.go.com/facility-service/'
     base_url = 'https://api.wdpro.disney.go.com/global-pool-override-B/facility-service/'
 
     def make_request(self, uri):
@@ -18,8 +19,7 @@ class ApiClient(object):
 
         headers = {
             'Authorization': "BEARER {access_token}".format(access_token=self.access_token.token),
-            'Accept': 'application/json;apiversion=1',
-            'X-Conversation-Id': '~WDPRO-MOBILE.CLIENT-PROD'
+            'Accept': 'application/json'
         }
         response = requests.get(uri, headers=headers)
         return response.json()

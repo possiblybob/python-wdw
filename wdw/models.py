@@ -1,14 +1,13 @@
 import requests
 from datetime import datetime, timedelta
 
-
 class AccessToken(object):
     """wraps access token to APIs"""
     uri = 'https://authorization.go.com/token'
     params = {
         'grant_type': 'assertion',
         'assertion_type': 'public',
-        'client_id': 'WDPRO-MOBILE.CLIENT-PROD'
+        'client_id': 'WDPRO-MOBILE.MDX.WDW.ANDROID-PROD'
     }
     def __init__(self):
         self.renew()
@@ -27,7 +26,7 @@ class AccessToken(object):
         return self.expires_at <= datetime.now()
 
 
-class Ride(object):
+class Ride():
     """models a ride at a park"""
     def __init__(self, id, name, url, queue_time, status, fastpass_eligible, single_rider_available):
         self.id = id
@@ -44,6 +43,7 @@ class Ride(object):
     @classmethod
     def from_json(cls, json):
         """builds object from JSON response"""
+        print(json)
         name = json['name']
         status = json['waitTime']['status']
         queue_time = int(json['waitTime']['postedWaitMinutes'])
