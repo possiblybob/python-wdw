@@ -114,9 +114,10 @@ class CharacterAppearance(object):
 
 class Resort(object):
     """models resort"""
-    def __init__(self, resort_id, name):
+    def __init__(self, resort_id, name, description):
         self.id = resort_id
         self.name = name
+        self.description = description
 
     def __str__(self):
         return self.name
@@ -125,7 +126,8 @@ class Resort(object):
     def from_json(cls, data):
         resort_id = data['id']
         name = data['name']
-        return cls(resort_id, name)
+        description = data['descriptions']['shortDescription']['text']
+        return cls(resort_id, name, description)
 
 
 class ThemePark(object):
@@ -149,4 +151,13 @@ class ThemePark(object):
 class WaltDisneyWorldResort(Resort):
     """creates special case Resort for Walt Disney World"""
     def __init__(self):
-        super(WaltDisneyWorldResort, self).__init__(80007798, 'Walt Disney World Resort')
+        super(WaltDisneyWorldResort, self).__init__(
+            80007798,
+            'Walt Disney World Resort',
+            'Walt Disney World Resort is a vacation wonderland that includes 4 theme parks, '
+            + '2 water parks and over 20 Resort hotels\u2014plus world-class shopping, dining, '
+            + 'entertainment, recreation, sports and much, much more. Visit an enchanted kingdom, '
+            + 'explore the world of today and tomorrow, star in a Hollywood movie and venture into '
+            + 'exotic realm filled with amazing animals. Find out why this really is the place where '
+            + 'dreams come true!'
+        )
