@@ -7,7 +7,6 @@ from .models import AccessToken, Character, CharacterAppearance, Location, Resor
 
 class ApiClient(object):
     access_token = None
-    base_url = 'https://api.wdpro.disney.go.com/facility-service/'
     base_url = 'https://api.wdpro.disney.go.com/global-pool-override-B/facility-service/'
 
     def make_request(self, uri):
@@ -48,10 +47,13 @@ class CharacterAppearanceClient(ApiClient):
 
     def get_for_theme_park(self, theme_park):
         """gets characters appearing in the park and where/when to meet them"""
+        return self.get_by_theme_park_id(theme_park.id)
+
+    def get_by_theme_park_id(self, theme_park_id):
         uri = urljoin(
             self.base_url,
             'theme-parks/{id}/character-appearances'.format(
-                id=theme_park.id
+                id=theme_park_id
             )
         )
         character_client = CharacterClient()
