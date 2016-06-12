@@ -1,0 +1,424 @@
+{
+    'entries': [{
+        'appearances': [{
+            'locations': [{
+                'links': {
+                    'self': {
+                        'href': 'https://api.wdpro.disney.go.com/global-pool-override-B/facility-service/facilities/16736220'
+                    }
+                },
+                'appearanceName': 'Meet Tiana in Liberty Square'
+            }],
+            'endTime': '19:45:00',
+            'startTime': '19:00:00'
+        }],
+        'character': {
+            'links': {
+                'self': {
+                    'href': 'https://api.wdpro.disney.go.com/global-pool-override-B/facility-service/characters/431014'
+                }
+            }
+        }
+    }, {
+        'appearances': [{
+            'locations': [{
+                'links': {
+                    'self': {
+                        'href': 'https://api.wdpro.disney.go.com/global-pool-override-B/facility-service/facilities/16736220'
+                    }
+                },
+                'appearanceName': 'Meet Tiana in Liberty Square'
+            }],
+            'endTime': '17:45:00',
+            'startTime': '17:15:00'
+        }, {
+            'locations': [{
+                'links': {
+                    'self': {
+                        'href': 'https://api.wdpro.disney.go.com/global-pool-override-B/facility-service/facilities/16736220'
+                    }
+                },
+                'appearanceName': 'Meet Tiana in Liberty Square'
+            }],
+            'endTime': '18:45:00',
+            'startTime': '18:00:00'
+        }, {
+            'locations': [{
+                'links': {
+                    'self': {
+                        'href': 'https://api.wdpro.disney.go.com/global-pool-override-B/facility-service/facilities/16736220'
+                    }
+                },
+                'appearanceName': 'Meet Tiana in Liberty Square'
+            }],
+            'endTime': '19:45:00',
+            'startTime': '19:00:00'
+        }],
+        'character': {
+            'links': {
+                'self': {
+                    'href': 'https://api.wdpro.disney.go.com/global-pool-override-B/facility-service/characters/431485'
+                }
+            }
+        }
+    }, {
+        'appearances': [{
+            'locations': [{
+                'links': {
+                    'self': {
+                        'href': 'https://api.wdpro.disney.go.com/global-pool-override-B/facility-service/facilities/16767305'
+                    }
+                },
+                'appearanceName': 'Meet Cinderella and Rapunzel at Princess Fairytale Hall'
+            }],
+            'endTime': '23:30:00',
+            'startTime': '09:00:00'
+        }],
+        'character': {
+            'links': {
+                'self': {
+                    'href': 'https://api.wdpro.disney.go.com/global-pool-override-B/facility-service/characters/15549505'
+                }
+            }
+        }
+    }, {
+        'appearances': [{
+            'locations': [{
+                'links': {
+                    'self': {
+                        'href': 'https://api.wdpro.disney.go.com/global-pool-override-B/facility-service/facilities/80008299'
+                    }
+                },
+                'appearanceName': 'Meet Merida at Fairytale Garden'
+            }],
+            'endTime': '17:45:00',
+            'startTime': '15:45:00'
+        }],
+        'character': {
+            'links': {
+                'self': {
+                    'href': 'https://api.wdpro.disney.go.com/global-pool-override-B/facility-service/characters/16453979'
+                }
+            }
+        }
+    }, {
+        'appearances': [{
+            'locations': [{
+                'links': {
+                    'self': {
+                        'href': 'https://api.wdpro.disney.go.com/global-pool-override-B/facility-service/facilities/16767305'
+                    }
+                },
+                'appearanceName': 'Meet Anna and Elsa at Princess Fairytale Hall'
+            }],
+            'endTime': '23:30:00',
+            'startTime': '09:00:00'
+        }],
+        'character': {
+            'links': {
+                'self': {
+                    'href': 'https://api.wdpro.disney.go.com/global-pool-override-B/facility-service/characters/17577168'
+                }
+            }
+        }
+    }, {
+        'appearances': [{
+            'locations': [{
+                'links': {
+                    'self': {
+                        'href': 'https://api.wdpro.disney.go.com/global-pool-override-B/facility-service/facilities/16767305'
+                    }
+                },
+                'appearanceName': 'Meet Anna and Elsa at Princess Fairytale Hall'
+            }],
+            'endTime': '23:30:00',
+            'startTime': '09:00:00'
+        }],
+        'character': {
+            'links': {
+                'self': {
+                    'href': 'https://api.wdpro.disney.go.com/global-pool-override-B/facility-service/characters/17577169'
+                }
+            }
+        }
+    }, {
+        'appearances': [{
+            'locations': [{
+                'links': {
+                    'self': {
+                        'href': 'https://api.wdpro.disney.go.com/global-pool-override-B/facility-service/facilities/18243720'
+                    }
+                },
+                'appearanceName': 'Meet Characters from Aladdin in Adventureland'
+            }],
+            'endTime': '18:00:00',
+            'startTime': '17:30:00'
+        }],
+        'character': {
+            'links': {
+                'self': {
+                    'href': 'https://api.wdpro.disney.go.com/global-pool-override-B/facility-service/characters/90003817'
+                }
+            }
+        }
+    }, {
+        'appearances': [{
+            'locations': [{
+                'links': {
+                    'self': {
+                        'href': 'https://api.wdpro.disney.go.com/global-pool-override-B/facility-service/facilities/16744310'
+                    }
+                },
+                'appearanceName': 'Meet Ariel at Her Grotto'
+            }],
+            'endTime': '23:30:00',
+            'startTime': '09:00:00'
+        }],
+        'character': {
+            'links': {
+                'self': {
+                    'href': 'https://api.wdpro.disney.go.com/global-pool-override-B/facility-service/characters/90003846'
+                }
+            }
+        }
+    }, {
+        'appearances': [{
+            'locations': [{
+                'links': {
+                    'self': {
+                        'href': 'https://api.wdpro.disney.go.com/global-pool-override-B/facility-service/facilities/16767305'
+                    }
+                },
+                'appearanceName': 'Meet Cinderella and Rapunzel at Princess Fairytale Hall'
+            }],
+            'endTime': '23:30:00',
+            'startTime': '09:00:00'
+        }],
+        'character': {
+            'links': {
+                'self': {
+                    'href': 'https://api.wdpro.disney.go.com/global-pool-override-B/facility-service/characters/90004017'
+                }
+            }
+        }
+    }, {
+        'appearances': [{
+            'locations': [{
+                'links': {
+                    'self': {
+                        'href': 'https://api.wdpro.disney.go.com/global-pool-override-B/facility-service/facilities/16767365'
+                    }
+                },
+                'appearanceName': 'Meet Magnifique Disney Friends as Circus Stars at Pete\u2019s Silly Sideshow'
+            }],
+            'endTime': '21:00:00',
+            'startTime': '10:00:00'
+        }],
+        'character': {
+            'links': {
+                'self': {
+                    'href': 'https://api.wdpro.disney.go.com/global-pool-override-B/facility-service/characters/90004068'
+                }
+            }
+        }
+    }, {
+        'appearances': [{
+            'locations': [{
+                'links': {
+                    'self': {
+                        'href': 'https://api.wdpro.disney.go.com/global-pool-override-B/facility-service/facilities/16767365'
+                    }
+                },
+                'appearanceName': "Meet Daring Disney Pals as Circus Stars at Pete's Silly Sideshow"
+            }],
+            'endTime': '21:00:00',
+            'startTime': '10:00:00'
+        }],
+        'character': {
+            'links': {
+                'self': {
+                    'href': 'https://api.wdpro.disney.go.com/global-pool-override-B/facility-service/characters/90004104'
+                }
+            }
+        }
+    }, {
+        'appearances': [{
+            'locations': [{
+                'links': {
+                    'self': {
+                        'href': 'https://api.wdpro.disney.go.com/global-pool-override-B/facility-service/facilities/16767365'
+                    }
+                },
+                'appearanceName': "Meet Daring Disney Pals as Circus Stars at Pete's Silly Sideshow"
+            }],
+            'endTime': '21:00:00',
+            'startTime': '10:00:00'
+        }],
+        'character': {
+            'links': {
+                'self': {
+                    'href': 'https://api.wdpro.disney.go.com/global-pool-override-B/facility-service/characters/90004228'
+                }
+            }
+        }
+    }, {
+        'appearances': [{
+            'locations': [{
+                'links': {
+                    'self': {
+                        'href': 'https://api.wdpro.disney.go.com/global-pool-override-B/facility-service/facilities/18243720'
+                    }
+                },
+                'appearanceName': 'Meet Characters from Aladdin in Adventureland'
+            }],
+            'endTime': '18:00:00',
+            'startTime': '17:30:00'
+        }],
+        'character': {
+            'links': {
+                'self': {
+                    'href': 'https://api.wdpro.disney.go.com/global-pool-override-B/facility-service/characters/90004328'
+                }
+            }
+        }
+    }, {
+        'appearances': [{
+            'locations': [{
+                'links': {
+                    'self': {
+                        'href': 'https://api.wdpro.disney.go.com/global-pool-override-B/facility-service/facilities/15907813'
+                    }
+                },
+                'appearanceName': 'Meet Mickey Mouse at Town Square Theater'
+            }],
+            'endTime': '23:30:00',
+            'startTime': '09:00:00'
+        }],
+        'character': {
+            'links': {
+                'self': {
+                    'href': 'https://api.wdpro.disney.go.com/global-pool-override-B/facility-service/characters/90004482'
+                }
+            }
+        }
+    }, {
+        'appearances': [{
+            'locations': [{
+                'links': {
+                    'self': {
+                        'href': 'https://api.wdpro.disney.go.com/global-pool-override-B/facility-service/facilities/16767365'
+                    }
+                },
+                'appearanceName': 'Meet Magnifique Disney Friends as Circus Stars at Pete\u2019s Silly Sideshow'
+            }],
+            'endTime': '21:00:00',
+            'startTime': '10:00:00'
+        }],
+        'character': {
+            'links': {
+                'self': {
+                    'href': 'https://api.wdpro.disney.go.com/global-pool-override-B/facility-service/characters/90004486'
+                }
+            }
+        }
+    }, {
+        'appearances': [{
+            'locations': [{
+                'links': {
+                    'self': {
+                        'href': 'https://api.wdpro.disney.go.com/global-pool-override-B/facility-service/facilities/16881683'
+                    }
+                },
+                'appearanceName': 'Meet Aurora in Fantasyland'
+            }],
+            'endTime': '17:45:00',
+            'startTime': '17:15:00'
+        }, {
+            'locations': [{
+                'links': {
+                    'self': {
+                        'href': 'https://api.wdpro.disney.go.com/global-pool-override-B/facility-service/facilities/16881683'
+                    }
+                },
+                'appearanceName': 'Meet Aurora in Fantasyland'
+            }],
+            'endTime': '18:40:00',
+            'startTime': '18:00:00'
+        }],
+        'character': {
+            'links': {
+                'self': {
+                    'href': 'https://api.wdpro.disney.go.com/global-pool-override-B/facility-service/characters/90004642'
+                }
+            }
+        }
+    }, {
+        'appearances': [{
+            'locations': [{
+                'links': {
+                    'self': {
+                        'href': 'https://api.wdpro.disney.go.com/global-pool-override-B/facility-service/facilities/16736218'
+                    }
+                },
+                'appearanceName': 'Meet Tigger and Friends near the Many Adventures of Winnie the Pooh'
+            }],
+            'endTime': '19:35:00',
+            'startTime': '15:15:00'
+        }],
+        'character': {
+            'links': {
+                'self': {
+                    'href': 'https://api.wdpro.disney.go.com/global-pool-override-B/facility-service/characters/90004840'
+                }
+            }
+        }
+    }, {
+        'appearances': [{
+            'locations': [{
+                'links': {
+                    'self': {
+                        'href': 'https://api.wdpro.disney.go.com/global-pool-override-B/facility-service/facilities/15907813'
+                    }
+                },
+                'appearanceName': 'Meet Tinker Bell at Town Square Theater'
+            }],
+            'endTime': '23:30:00',
+            'startTime': '09:00:00'
+        }],
+        'character': {
+            'links': {
+                'self': {
+                    'href': 'https://api.wdpro.disney.go.com/global-pool-override-B/facility-service/characters/90004846'
+                }
+            }
+        }
+    }, {
+        'appearances': [{
+            'locations': [{
+                'links': {
+                    'self': {
+                        'href': 'https://api.wdpro.disney.go.com/global-pool-override-B/facility-service/facilities/16736218'
+                    }
+                },
+                'appearanceName': 'Meet Tigger and Friends near the Many Adventures of Winnie the Pooh'
+            }],
+            'endTime': '19:35:00',
+            'startTime': '15:15:00'
+        }],
+        'character': {
+            'links': {
+                'self': {
+                    'href': 'https://api.wdpro.disney.go.com/global-pool-override-B/facility-service/characters/90004921'
+                }
+            }
+        }
+    }],
+    'links': {
+        'self': {
+            'href': 'https://api.wdpro.disney.go.com/global-pool-override-B/facility-service/theme-parks/80007944/character-appearances'
+        }
+    },
+    'offset': 0,
+    'limit': 19,
+    'total': 19
+}

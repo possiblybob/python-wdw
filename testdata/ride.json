@@ -1,0 +1,469 @@
+{
+    'disneyOwned': True,
+    'webLinks': {
+        'wdwDetail': {
+            'href': 'http://disneyworld.disney.go.com/attractions/magic-kingdom/hall-of-presidents/'
+        }
+    },
+    'links': {
+        'schedule': {
+            'href': 'https://api.wdpro.disney.go.com/global-pool-override-B/facility-service/schedules/80069754'
+        },
+        'ancestorResortArea': {
+            'href': 'https://api.wdpro.disney.go.com/global-pool-override-B/facility-service/resort-areas/1258',
+            'title': 'Magic Kingdom Resort Area'
+        },
+        'scheduleTomorrow': {
+            'href': 'https://api.wdpro.disney.go.com/global-pool-override-B/facility-service/schedules/80069754?date=2016-05-31'
+        },
+        'ancestorThemePark': {
+            'href': 'https://api.wdpro.disney.go.com/global-pool-override-B/facility-service/theme-parks/80007944',
+            'title': 'Magic Kingdom Park'
+        },
+        'scheduleMax': {
+            'href': 'https://api.wdpro.disney.go.com/global-pool-override-B/facility-service/schedules/80069754?days=190'
+        },
+        'ancestorLand': {
+            'href': 'https://api.wdpro.disney.go.com/global-pool-override-B/facility-service/lands/80007945',
+            'title': 'Liberty Square'
+        },
+        'associatedCharacters': {
+            'href': 'https://api.wdpro.disney.go.com/global-pool-override-B/facility-service/associated-characters/80069754;entityType=Attraction'
+        },
+        'self': {
+            'href': 'https://api.wdpro.disney.go.com/global-pool-override-B/facility-service/attractions/80069754'
+        },
+        'ancestorDestination': {
+            'href': 'https://api.wdpro.disney.go.com/global-pool-override-B/facility-service/destinations/80007798',
+            'title': 'Walt Disney World Resort'
+        },
+        'scheduleToday': {
+            'href': 'https://api.wdpro.disney.go.com/global-pool-override-B/facility-service/schedules/80069754?date=2016-05-30'
+        },
+        'waitTimes': {
+            'href': 'https://api.wdpro.disney.go.com/global-pool-override-B/facility-service/attractions/80069754/wait-times'
+        }
+    },
+    'classifications': [{
+        'text': 'WDW',
+        'id': '/Destination'
+    }, {
+        'text': 'Big Thrills',
+        'id': '/Interest'
+    }],
+    'admissionRequired': True,
+    'riderSwapAvailable': False,
+    'fastPass': False,
+    'id': '80069754;entityType=Attraction',
+    'coordinates': {
+        'Guest Entrance': {
+            'xyMaps': {
+                'x': '400',
+                'y': '312'
+            },
+            'gps': {
+                'latitude': '28.4194484171',
+                'longitude': '-81.5823248578'
+            }
+        }
+    },
+    'contactInformation': {
+        'addresses': [{
+            'country': 'United States',
+            'stateOrProvince': 'Florida',
+            'type': 'Physical Address',
+            'postalCode': '32830',
+            'city': 'Bay Lake',
+            'line1': '1430 Magic Kingdom Drive'
+        }]
+    },
+    'accessibilities': [{
+        'links': {
+            'self': {
+                'href': 'https://api.wdpro.disney.go.com/global-pool-override-B/facility-service/accessibilities/80010838'
+            }
+        }
+    }],
+    'media': {
+        'X-hall-of-presidents-00-sq-82x82': {
+            'title': 'X-hall-of-presidents-00-sq-82x82',
+            'url': 'https://secure.parksandresorts.wdpromedia.com/oneSource/static/X-hall-of-presidents-00-sq-82x82.jpg',
+            'type': 'JPG'
+        },
+        'WDW - The Hall of Presidents -6620GD - S1989.JPG': {
+            'title': 'WDW - The Hall of Presidents -6620GD - S1989.JPG',
+            'url': 'https://secure.parksandresorts.wdpromedia.com/oneSource/static/WDW - The Hall of Presidents -6620GD - S1989.JPG',
+            'type': 'JPG'
+        },
+        'The Hall of Presidents 90x90': {
+            'title': 'The Hall of Presidents 90x90',
+            'url': 'https://secure.parksandresorts.wdpromedia.com/oneSource/static/pep_wdw_TheHallofPresidents_thumb_90x90_2.jpg',
+            'type': 'JPG'
+        },
+        'The Hall of Presidents IGS 104-69': {
+            'title': 'The Hall of Presidents IGS 104-69',
+            'url': 'https://secure.parksandresorts.wdpromedia.com/oneSource/static/hallOfPresidents_104-69.jpg'
+        },
+        'WDW - The Hall of Presidents -6620GD - S898.JPG': {
+            'title': 'WDW - The Hall of Presidents -6620GD - S898.JPG',
+            'url': 'https://secure.parksandresorts.wdpromedia.com/oneSource/static/WDW - The Hall of Presidents -6620GD - S898.JPG',
+            'type': 'JPG'
+        },
+        'X-hall-of-presidents-00-sq-98x98': {
+            'title': 'X-hall-of-presidents-00-sq-98x98',
+            'url': 'https://secure.parksandresorts.wdpromedia.com/oneSource/static/X-hall-of-presidents-00-sq-98x98.jpg',
+            'type': 'JPG'
+        },
+        'The Hall of Presidents IGS 244-163': {
+            'title': 'The Hall of Presidents IGS 244-163',
+            'url': 'https://secure.parksandresorts.wdpromedia.com/oneSource/static/hallOfPresidents_244-163.jpg'
+        },
+        'WDW - The Hall of Presidents -587GDe - 640x314.jpg': {
+            'title': 'WDW - The Hall of Presidents -587GDe - 640x314.jpg',
+            'url': 'https://secure.parksandresorts.wdpromedia.com/oneSource/static/WDW - The Hall of Presidents -587GDe - 640x314.jpg',
+            'type': 'JPG'
+        },
+        'WDW - The Hall of Presidents -587GDe - S1503.JPG': {
+            'title': 'WDW - The Hall of Presidents -587GDe - S1503.JPG',
+            'url': 'https://secure.parksandresorts.wdpromedia.com/oneSource/static/WDW - The Hall of Presidents -587GDe - S1503.JPG',
+            'type': 'JPG'
+        },
+        'X-hall-of-presidents-00-540x304': {
+            'title': 'X-hall-of-presidents-00-540x304',
+            'url': 'https://secure.parksandresorts.wdpromedia.com/oneSource/static/X-hall-of-presidents-00-540x304.jpg',
+            'type': 'JPG'
+        },
+        'mapBubbleThumbLarge': {
+            'title': 'The Hall of Presidents',
+            'alt': 'Four U.S. Presidents on stage at The Hall of Presidents in Liberty Square at Magic Kingdom park',
+            'transcodeTemplate': 'https://secure.parksandresorts.wdpromedia.com/resize/mwImage/1/{width}/{height}/90/wdpromedia.disney.go.com/media/wdpro-assets/parks-and-tickets/attractions/magic-kingdom/the-hall-of-presidents/hall-of-presidents-00-sq.jpg?18072014072115',
+            'url': 'https://secure.parksandresorts.wdpromedia.com/resize/mwImage/1/90/90/90/wdpromedia.disney.go.com/media/wdpro-assets/parks-and-tickets/attractions/magic-kingdom/the-hall-of-presidents/hall-of-presidents-00-sq.jpg?18072014072115',
+            'type': 'jpg'
+        },
+        'X-hall-of-presidents-00-sq-36x36': {
+            'title': 'X-hall-of-presidents-00-sq-36x36',
+            'url': 'https://secure.parksandresorts.wdpromedia.com/oneSource/static/X-hall-of-presidents-00-sq-36x36.jpg',
+            'type': 'JPG'
+        },
+        'X-hall-of-presidents-00-480x270': {
+            'title': 'X-hall-of-presidents-00-480x270',
+            'url': 'https://secure.parksandresorts.wdpromedia.com/oneSource/static/X-hall-of-presidents-00-480x270.jpg',
+            'type': 'JPG'
+        },
+        'The Hall of Presidents IGS 213-142': {
+            'title': 'The Hall of Presidents IGS 213-142',
+            'url': 'https://secure.parksandresorts.wdpromedia.com/oneSource/static/hallOfPresidents_213-142.jpg'
+        },
+        'X-hall-of-presidents-00-sq-73x73': {
+            'title': 'X-hall-of-presidents-00-sq-73x73',
+            'url': 'https://secure.parksandresorts.wdpromedia.com/oneSource/static/X-hall-of-presidents-00-sq-73x73.jpg',
+            'type': 'JPG'
+        },
+        'X-hall-of-presidents-00-sq-109x109': {
+            'title': 'X-hall-of-presidents-00-sq-109x109',
+            'url': 'https://secure.parksandresorts.wdpromedia.com/oneSource/static/X-hall-of-presidents-00-sq-109x109.jpg',
+            'type': 'JPG'
+        },
+        'The Hall of Presidents - 132x147 - WDPRO': {
+            'title': 'The Hall of Presidents - 132x147 - WDPRO',
+            'url': 'https://secure.parksandresorts.wdpromedia.com/oneSource/static/The Hall of Presidents - 132x147.jpg',
+            'type': 'JPG'
+        },
+        'X-hall-of-presidents-00-640x360': {
+            'title': 'X-hall-of-presidents-00-640x360',
+            'url': 'https://secure.parksandresorts.wdpromedia.com/oneSource/static/X-hall-of-presidents-00-640x360.jpg',
+            'type': 'JPG'
+        },
+        'The Hall of Presidents IGS 272-181': {
+            'title': 'The Hall of Presidents IGS 272-181',
+            'url': 'https://secure.parksandresorts.wdpromedia.com/oneSource/static/hallOfPresidents_272-181.jpg'
+        },
+        'X-hall-of-presidents-00-320x180': {
+            'title': 'X-hall-of-presidents-00-320x180',
+            'url': 'https://secure.parksandresorts.wdpromedia.com/oneSource/static/X-hall-of-presidents-00-320x180.jpg',
+            'type': 'JPG'
+        },
+        'finderDetailMobileHero': {
+            'title': 'The Hall of Presidents',
+            'alt': 'Ten U.S. Presidents on stage at The Hall of Presidents in Liberty Square at Magic Kingdom park',
+            'transcodeTemplate': 'https://secure.parksandresorts.wdpromedia.com/resize/mwImage/1/{width}/{height}/90/wdpromedia.disney.go.com/media/wdpro-assets/parks-and-tickets/attractions/magic-kingdom/the-hall-of-presidents/hall-of-presidents-00.jpg?18072014072010',
+            'url': 'https://secure.parksandresorts.wdpromedia.com/resize/mwImage/1/720/405/90/wdpromedia.disney.go.com/media/wdpro-assets/parks-and-tickets/attractions/magic-kingdom/the-hall-of-presidents/hall-of-presidents-00.jpg?18072014072010',
+            'type': 'jpg'
+        },
+        'The Hall of Presidents IGS 114-76': {
+            'title': 'The Hall of Presidents IGS 114-76',
+            'url': 'https://secure.parksandresorts.wdpromedia.com/oneSource/static/hallOfPresidents_114-76.jpg'
+        },
+        'WDW - The Hall of Presidents -587GDe - S898.JPG': {
+            'title': 'WDW - The Hall of Presidents -587GDe - S898.JPG',
+            'url': 'https://secure.parksandresorts.wdpromedia.com/oneSource/static/WDW - The Hall of Presidents -587GDe - S898.JPG',
+            'type': 'JPG'
+        },
+        'finderListMobileSquare': {
+            'title': 'The Hall of Presidents',
+            'alt': 'Four U.S. Presidents on stage at The Hall of Presidents in Liberty Square at Magic Kingdom park',
+            'transcodeTemplate': 'https://secure.parksandresorts.wdpromedia.com/resize/mwImage/1/{width}/{height}/90/wdpromedia.disney.go.com/media/wdpro-assets/parks-and-tickets/attractions/magic-kingdom/the-hall-of-presidents/hall-of-presidents-00-sq.jpg?18072014072115',
+            'url': 'https://secure.parksandresorts.wdpromedia.com/resize/mwImage/1/125/125/90/wdpromedia.disney.go.com/media/wdpro-assets/parks-and-tickets/attractions/magic-kingdom/the-hall-of-presidents/hall-of-presidents-00-sq.jpg?18072014072115',
+            'type': 'jpg'
+        },
+        'The Hall of Presidents - 211x106 - WDPRO': {
+            'title': 'The Hall of Presidents - 211x106 - WDPRO',
+            'url': 'https://secure.parksandresorts.wdpromedia.com/oneSource/static/The Hall of Presidents - 211x106.jpg',
+            'type': 'JPG'
+        },
+        'finderStandardThumb': {
+            'title': 'The Hall of Presidents',
+            'alt': 'Ten U.S. Presidents on stage at The Hall of Presidents in Liberty Square at Magic Kingdom park',
+            'transcodeTemplate': 'https://secure.parksandresorts.wdpromedia.com/resize/mwImage/1/{width}/{height}/90/wdpromedia.disney.go.com/media/wdpro-assets/parks-and-tickets/attractions/magic-kingdom/the-hall-of-presidents/hall-of-presidents-00.jpg?18072014072010',
+            'url': 'https://secure.parksandresorts.wdpromedia.com/resize/mwImage/1/170/96/90/wdpromedia.disney.go.com/media/wdpro-assets/parks-and-tickets/attractions/magic-kingdom/the-hall-of-presidents/hall-of-presidents-00.jpg?18072014072010',
+            'type': 'jpg'
+        },
+        'X-hall-of-presidents-00-720x405': {
+            'title': 'X-hall-of-presidents-00-720x405',
+            'url': 'https://secure.parksandresorts.wdpromedia.com/oneSource/static/X-hall-of-presidents-00-720x405.jpg',
+            'type': 'JPG'
+        },
+        'WDW - The Hall of Presidents -587GDe - S1989.JPG': {
+            'title': 'WDW - The Hall of Presidents -587GDe - S1989.JPG',
+            'url': 'https://secure.parksandresorts.wdpromedia.com/oneSource/static/WDW - The Hall of Presidents -587GDe - S1989.JPG',
+            'type': 'JPG'
+        },
+        'WDW - The Hall of Presidents -587GDe - S1010.JPG': {
+            'title': 'WDW - The Hall of Presidents -587GDe - S1010.JPG',
+            'url': 'https://secure.parksandresorts.wdpromedia.com/oneSource/static/WDW - The Hall of Presidents -587GDe - S1010.JPG',
+            'type': 'JPG'
+        },
+        'The Hall of Presidents - 216x106 - WDPRO': {
+            'title': 'The Hall of Presidents - 216x106 - WDPRO',
+            'url': 'https://secure.parksandresorts.wdpromedia.com/oneSource/static/The Hall of Presidents - 216x106.jpg',
+            'type': 'JPG'
+        },
+        'finderDetailNarrowHero': {
+            'title': 'The Hall of Presidents',
+            'alt': 'Ten U.S. Presidents on stage at The Hall of Presidents in Liberty Square at Magic Kingdom park',
+            'transcodeTemplate': 'https://secure.parksandresorts.wdpromedia.com/resize/mwImage/1/{width}/{height}/90/wdpromedia.disney.go.com/media/wdpro-assets/parks-and-tickets/attractions/magic-kingdom/the-hall-of-presidents/hall-of-presidents-00.jpg?18072014072010',
+            'url': 'https://secure.parksandresorts.wdpromedia.com/resize/mwImage/1/630/354/90/wdpromedia.disney.go.com/media/wdpro-assets/parks-and-tickets/attractions/magic-kingdom/the-hall-of-presidents/hall-of-presidents-00.jpg?18072014072010',
+            'type': 'jpg'
+        },
+        'WDW - The Hall of Presidents -6620GD - 640x314.jpg': {
+            'title': 'WDW - The Hall of Presidents -6620GD - 640x314.jpg',
+            'url': 'https://secure.parksandresorts.wdpromedia.com/oneSource/static/WDW - The Hall of Presidents -6620GD - 640x314.jpg',
+            'type': 'JPG'
+        },
+        'The Hall of Presidents - 162x80 - WDPRO': {
+            'title': 'The Hall of Presidents - 162x80 - WDPRO',
+            'url': 'https://secure.parksandresorts.wdpromedia.com/oneSource/static/The Hall of Presidents - 162x80.jpg',
+            'type': 'JPG'
+        },
+        'WDW - The Hall of Presidents -6620GD - S1503.JPG': {
+            'title': 'WDW - The Hall of Presidents -6620GD - S1503.JPG',
+            'url': 'https://secure.parksandresorts.wdpromedia.com/oneSource/static/WDW - The Hall of Presidents -6620GD - S1503.JPG',
+            'type': 'JPG'
+        },
+        'X-hall-of-presidents-00-sq-125x125': {
+            'title': 'X-hall-of-presidents-00-sq-125x125',
+            'url': 'https://secure.parksandresorts.wdpromedia.com/oneSource/static/X-hall-of-presidents-00-sq-125x125.jpg',
+            'type': 'JPG'
+        },
+        'X-hall-of-presidents-00-sq-49x49': {
+            'title': 'X-hall-of-presidents-00-sq-49x49',
+            'url': 'https://secure.parksandresorts.wdpromedia.com/oneSource/static/X-hall-of-presidents-00-sq-49x49.jpg',
+            'type': 'JPG'
+        },
+        'WDW - The Hall of Presidents -6620GD -S1010.JPG': {
+            'title': 'WDW - The Hall of Presidents -6620GD -S1010.JPG',
+            'url': 'https://secure.parksandresorts.wdpromedia.com/oneSource/static/WDW - The Hall of Presidents -6620GD -S1010.JPG',
+            'type': 'JPG'
+        },
+        'mapBubbleThumbSmall': {
+            'title': 'The Hall of Presidents',
+            'alt': 'Four U.S. Presidents on stage at The Hall of Presidents in Liberty Square at Magic Kingdom park',
+            'transcodeTemplate': 'https://secure.parksandresorts.wdpromedia.com/resize/mwImage/1/{width}/{height}/90/wdpromedia.disney.go.com/media/wdpro-assets/parks-and-tickets/attractions/magic-kingdom/the-hall-of-presidents/hall-of-presidents-00-sq.jpg?18072014072115',
+            'url': 'https://secure.parksandresorts.wdpromedia.com/resize/mwImage/1/45/45/90/wdpromedia.disney.go.com/media/wdpro-assets/parks-and-tickets/attractions/magic-kingdom/the-hall-of-presidents/hall-of-presidents-00-sq.jpg?18072014072115',
+            'type': 'jpg'
+        }
+    },
+    'name': 'The Hall of Presidents',
+    'facets': {
+        'hearingandVisualDisability': [{
+            'urlFriendlyId': 'reflective-captioning',
+            'id': '16669952',
+            'value': 'Reflective Captioning'
+        }, {
+            'urlFriendlyId': 'assistive-listening',
+            'id': '16669959',
+            'value': 'Assistive Listening'
+        }, {
+            'urlFriendlyId': 'translation-devices',
+            'id': '17697268',
+            'value': 'Language Translation Devices'
+        }],
+        'wdw-mobile-listing': [{
+            'urlFriendlyId': 'FinderMobileAttractions',
+            'id': '16978634',
+            'value': 'FinderMobileAttractions'
+        }],
+        'interests': [{
+            'urlFriendlyId': 'classic',
+            'id': '16669983',
+            'value': 'Classics'
+        }, {
+            'urlFriendlyId': 'indoor-attractions',
+            'id': '17043510',
+            'value': 'Indoor'
+        }],
+        'wdw-finder-listing': [{
+            'urlFriendlyId': 'FinderPCAttractions',
+            'id': '16983816',
+            'value': 'FinderPCAttractions'
+        }],
+        'guestRating': [{
+            'urlFriendlyId': 'RatingsReviewsAttractions',
+            'id': '17110120',
+            'value': 'RatingsReviewsAttractions'
+        }],
+        'mobilityDisabilities': [{
+            'urlFriendlyId': 'wheelchair-access',
+            'id': '16669964',
+            'value': 'May Remain in Wheelchair/ECV'
+        }],
+        'age': [{
+            'urlFriendlyId': 'kids',
+            'id': '16669903',
+            'value': 'Kids'
+        }, {
+            'urlFriendlyId': 'all-ages',
+            'id': '16669938',
+            'value': 'All Ages'
+        }, {
+            'urlFriendlyId': 'adults',
+            'id': '16726768',
+            'value': 'Adults'
+        }, {
+            'urlFriendlyId': 'preschoolers',
+            'id': '16726942',
+            'value': 'Preschoolers'
+        }, {
+            'urlFriendlyId': 'teens',
+            'id': '16727023',
+            'value': 'Teens'
+        }, {
+            'urlFriendlyId': 'tweens',
+            'id': '16727047',
+            'value': 'Tweens'
+        }],
+        'height': [{
+            'urlFriendlyId': 'any-height',
+            'id': '16669818',
+            'value': 'Any Height'
+        }]
+    },
+    'fastPassPlus': False,
+    'disneyOperated': True,
+    'descriptions': {
+        'shortDescriptionMobile': {
+            'text': 'Behold all 43 U.S. Presidents on stage in a patriotic, Audio-Animatronics show tracing the history of the United States.',
+            'sections': {
+                'body': 'Behold all 43 U.S. Presidents on stage in a patriotic, Audio-Animatronics show tracing the history of the United States.'
+            },
+            'descriptionTemplate': '{{body}}',
+            'id': '',
+            'type': 'mobileDescription'
+        },
+        'entityCard3': {
+            'text': '<div class="htmlContainer heroBlock">\n<img src="https://secure.parksandresorts.wdpromedia.com/resize/mwImage/1/170/96/90/wdpromedia.disney.go.com/media/wdpro-assets/parks-and-tickets/attractions/magic-kingdom/the-hall-of-presidents/hall-of-presidents-04.jpg?07042016140858" alt="The Colonial brick building of the Hall of Presidents has a clock tower with a bell and a weather vane"/>\n<div class="heroRight">\n<h3>Know Before You Go</h3>\n<div class="heroData">\n<p>The Hall of Presidents stage show runs continuously throughout the day. Be sure to check the large clock hanging under the marquee for the next available showtime.</p>\n</div>\n</div>\n</div>',
+            'type': 'webDescription',
+            'media': {
+                'media1': {
+                    'title': 'The Hall of Presidents',
+                    'alt': 'The Colonial brick building of the Hall of Presidents has a clock tower with a bell and a weather vane',
+                    'transcodeTemplate': 'https://secure.parksandresorts.wdpromedia.com/resize/mwImage/1/{width}/{height}/90/wdpromedia.disney.go.com/media/wdpro-assets/parks-and-tickets/attractions/magic-kingdom/the-hall-of-presidents/hall-of-presidents-04.jpg?07042016140858',
+                    'url': 'https://secure.parksandresorts.wdpromedia.com/resize/mwImage/1/170/96/90/wdpromedia.disney.go.com/media/wdpro-assets/parks-and-tickets/attractions/magic-kingdom/the-hall-of-presidents/hall-of-presidents-04.jpg?07042016140858',
+                    'type': 'jpg'
+                }
+            },
+            'descriptionTemplate': '<div class="htmlContainer heroBlock">\n<img src="{{media1.uri}}" alt="{{media1.alt}}"/>\n<div class="heroRight">\n<h3>{{header}}</h3>\n<div class="heroData">\n<p>{{body}}</p>\n</div>\n</div>\n</div>',
+            'sections': {
+                'header': 'Know Before You Go',
+                'body': 'The Hall of Presidents stage show runs continuously throughout the day. Be sure to check the large clock hanging under the marquee for the next available showtime.'
+            },
+            'id': ''
+        },
+        'entityCard2': {
+            'text': '<div class="htmlContainer heroBlock">\n    <img src="https://secure.parksandresorts.wdpromedia.com/resize/mwImage/1/170/96/90/wdpromedia.disney.go.com/media/wdpro-assets/parks-and-tickets/attractions/magic-kingdom/the-hall-of-presidents/hall-of-presidents-02.jpg?18072014072827" alt="All 43 U.S. Presidents on stage at The Hall of Presidents in Liberty Square at Magic Kingdom park"/>\n    <div class="heroRight">\n        <h3>The Birth of a Legend</h3>\n        <div class="heroData" data-widget="readMoreLink" data-readmoretranslation="Read More" data-readlesstranslation="Show Less" data-maxlength="100">\n            <p>Envisioned by Walt Disney, The Hall of Presidents proved too ambitious for the technology of the time.</p>  <p>Conceived as animated wax figures, the Presidents didn\u2019t quite look and act as Walt Disney had originally envisioned. So Walt decided to work with his Imagineers to develop the first Audio-Animatronics figure in human form. The result was the startling realistic, classic attraction Great Moments with Mr. Lincoln, which debuted to rave reviews at the 1964 New York World\u2019s Fair.</p>  <p>In 1971, with the technology tested and perfected, Abraham Lincoln\u2014in addition to every other President at the time\u2014appeared onstage in The Hall of Presidents in Liberty Square at Magic Kingdom park. Since then, every U.S. President, including the addition of Barack Obama, has been added to the roll call.</p>\n        </div>\n    </div>\n</div>',
+            'type': 'webDescription',
+            'media': {
+                'media1': {
+                    'title': 'The Hall of Presidents',
+                    'alt': 'All 43 U.S. Presidents on stage at The Hall of Presidents in Liberty Square at Magic Kingdom park',
+                    'transcodeTemplate': 'https://secure.parksandresorts.wdpromedia.com/resize/mwImage/1/{width}/{height}/90/wdpromedia.disney.go.com/media/wdpro-assets/parks-and-tickets/attractions/magic-kingdom/the-hall-of-presidents/hall-of-presidents-02.jpg?18072014072827',
+                    'url': 'https://secure.parksandresorts.wdpromedia.com/resize/mwImage/1/170/96/90/wdpromedia.disney.go.com/media/wdpro-assets/parks-and-tickets/attractions/magic-kingdom/the-hall-of-presidents/hall-of-presidents-02.jpg?18072014072827',
+                    'type': 'jpg'
+                }
+            },
+            'descriptionTemplate': '<div class="htmlContainer heroBlock">\n    <img src="{{media1.uri}}" alt="{{media1.alt}}"/>\n    <div class="heroRight">\n        <h3>{{header}}</h3>\n        <div class="heroData" data-widget="readMoreLink" data-readmoretranslation="Read More" data-readlesstranslation="Show Less" data-maxlength="100">\n            <p>{{readAll}}</p>\n        </div>\n    </div>\n</div>',
+            'sections': {
+                'header': 'The Birth of a Legend',
+                'readMore': 'Envisioned by Walt Disney, The Hall of Presidents proved too ambitious for the technology of the time.',
+                'readAll': 'Envisioned by Walt Disney, The Hall of Presidents proved too ambitious for the technology of the time.</p>  <p>Conceived as animated wax figures, the Presidents didn\u2019t quite look and act as Walt Disney had originally envisioned. So Walt decided to work with his Imagineers to develop the first Audio-Animatronics figure in human form. The result was the startling realistic, classic attraction Great Moments with Mr. Lincoln, which debuted to rave reviews at the 1964 New York World\u2019s Fair.</p>  <p>In 1971, with the technology tested and perfected, Abraham Lincoln\u2014in addition to every other President at the time\u2014appeared onstage in The Hall of Presidents in Liberty Square at Magic Kingdom park. Since then, every U.S. President, including the addition of Barack Obama, has been added to the roll call.'
+            },
+            'id': ''
+        },
+        'entityCard1': {
+            'text': '<div class="htmlContainer heroBlock">\n    <img src="https://secure.parksandresorts.wdpromedia.com/resize/mwImage/1/170/96/90/wdpromedia.disney.go.com/media/wdpro-assets/parks-and-tickets/attractions/magic-kingdom/the-hall-of-presidents/hall-of-presidents-01.jpg?18072014072211" alt="Eight U.S. Presidents on stage at The Hall of Presidents in Liberty Square at Magic Kingdom park"/>\n    <div class="heroRight">\n        <h3>A Celebration of Liberty\u2019s Leaders</h3>\n        <div class="heroData" data-widget="readMoreLink" data-readmoretranslation="Read More" data-readlesstranslation="Show Less" data-maxlength="100">\n            <p>Discover the unique relationship between the President and the American people during this rousing presentation.</p>  <p>Enter the pristine Hall of Presidents in the heart of Liberty Square\u2014modeled after Independence Hall in Philadelphia\u2014and make your way beneath an awe-inspiring grand rotunda. Peruse an authentic artifact collection nearby featuring such treasures as George Washington\u2019s dental instruments and Abraham Lincoln\u2019s leather portfolio.</p>  <p><strong>The Presidents Will See You Now </strong> <br/> Stroll into the 700-seat main theater, home to 3 massive projection screens and a grand proscenium. As the lights dim, sit back and enjoy an original film\u2014developed by a Pulitzer Prize-winning historian\u2014relaying the dramatic story of the United States of America.</p>  <p>During the presentation, revel in America\u2019s enduring origins, the formation of our Constitution and the hard-fought struggles along the way\u2014such as the American Revolution and the Civil War. Listen to the stirring words of John F. Kennedy echo throughout the theater and watch Abraham Lincoln\u2014in attendance on stage\u2014deliver his Gettysburg address.</p>  <p>Then, witness a very special display as the curtain rises to reveal each and every United States President, together for the very first time\u2014followed by stirring speeches about the American Dream delivered by Presidents George Washington and Barack Obama.</p>\n        </div>\n    </div>\n</div>',
+            'type': 'webDescription',
+            'media': {
+                'media1': {
+                    'title': 'The Hall of Presidents',
+                    'alt': 'Eight U.S. Presidents on stage at The Hall of Presidents in Liberty Square at Magic Kingdom park',
+                    'transcodeTemplate': 'https://secure.parksandresorts.wdpromedia.com/resize/mwImage/1/{width}/{height}/90/wdpromedia.disney.go.com/media/wdpro-assets/parks-and-tickets/attractions/magic-kingdom/the-hall-of-presidents/hall-of-presidents-01.jpg?18072014072211',
+                    'url': 'https://secure.parksandresorts.wdpromedia.com/resize/mwImage/1/170/96/90/wdpromedia.disney.go.com/media/wdpro-assets/parks-and-tickets/attractions/magic-kingdom/the-hall-of-presidents/hall-of-presidents-01.jpg?18072014072211',
+                    'type': 'jpg'
+                }
+            },
+            'descriptionTemplate': '<div class="htmlContainer heroBlock">\n    <img src="{{media1.uri}}" alt="{{media1.alt}}"/>\n    <div class="heroRight">\n        <h3>{{header}}</h3>\n        <div class="heroData" data-widget="readMoreLink" data-readmoretranslation="Read More" data-readlesstranslation="Show Less" data-maxlength="100">\n            <p>{{readAll}}</p>\n        </div>\n    </div>\n</div>',
+            'sections': {
+                'header': 'A Celebration of Liberty\u2019s Leaders',
+                'readMore': 'Discover the unique relationship between the President and the American people during this rousing presentation.',
+                'readAll': 'Discover the unique relationship between the President and the American people during this rousing presentation.</p>  <p>Enter the pristine Hall of Presidents in the heart of Liberty Square\u2014modeled after Independence Hall in Philadelphia\u2014and make your way beneath an awe-inspiring grand rotunda. Peruse an authentic artifact collection nearby featuring such treasures as George Washington\u2019s dental instruments and Abraham Lincoln\u2019s leather portfolio.</p>  <p><strong>The Presidents Will See You Now </strong> <br/> Stroll into the 700-seat main theater, home to 3 massive projection screens and a grand proscenium. As the lights dim, sit back and enjoy an original film\u2014developed by a Pulitzer Prize-winning historian\u2014relaying the dramatic story of the United States of America.</p>  <p>During the presentation, revel in America\u2019s enduring origins, the formation of our Constitution and the hard-fought struggles along the way\u2014such as the American Revolution and the Civil War. Listen to the stirring words of John F. Kennedy echo throughout the theater and watch Abraham Lincoln\u2014in attendance on stage\u2014deliver his Gettysburg address.</p>  <p>Then, witness a very special display as the curtain rises to reveal each and every United States President, together for the very first time\u2014followed by stirring speeches about the American Dream delivered by Presidents George Washington and Barack Obama.'
+            },
+            'id': ''
+        },
+        'shortDescription': {
+            'text': 'Behold all 43 U.S. Presidents on stage in a patriotic, Audio-Animatronics show tracing the history of the United States.  <br/>',
+            'sections': {
+                'body': 'Behold all 43 U.S. Presidents on stage in a patriotic, Audio-Animatronics show tracing the history of the United States.'
+            },
+            'descriptionTemplate': '{{body}}  <br/>',
+            'id': '1',
+            'type': 'webDescription'
+        }
+    },
+    'urlFriendlyId': 'hall-of-presidents',
+    'contentType': 'Attraction',
+    'services': [{
+        'links': {
+            'self': {
+                'href': 'https://api.wdpro.disney.go.com/global-pool-override-B/facility-service/guest-services/80012296'
+            }
+        }
+    }],
+    'type': 'Attraction',
+    'policies': [{
+        'links': {
+            'self': {
+                'href': 'https://api.wdpro.disney.go.com/global-pool-override-B/product-service/policies/379197'
+            }
+        }
+    }],
+    'keywords': ['barack obama', 'george washington', 'abraham lincoln'],
+    'ancestorDestination': {
+        'links': {
+            'self': {
+                'href': 'https://api.wdpro.disney.go.com/global-pool-override-B/facility-service/destinations/80007798',
+                'title': 'Walt Disney World Resort'
+            }
+        },
+        'id': '80007798;entityType=destination'
+    }
+}

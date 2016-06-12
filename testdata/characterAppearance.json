@@ -1,0 +1,21 @@
+{
+    'appearances': [{
+        'locations': [{
+            'links': {
+                'self': {
+                    'href': 'https://api.wdpro.disney.go.com/global-pool-override-B/facility-service/facilities/18243720'
+                }
+            },
+            'appearanceName': 'Meet Characters from Aladdin in Adventureland'
+        }],
+        'endTime': '18:00:00',
+        'startTime': '17:30:00'
+    }],
+    'character': {
+        'links': {
+            'self': {
+                'href': 'https://api.wdpro.disney.go.com/global-pool-override-B/facility-service/characters/90003817'
+            }
+        }
+    }
+}
